@@ -1,0 +1,601 @@
+fold,accuracy,precision,recall,specificity,f1,auc,brier,errors,model,variant
+0,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004908975879915602,1,Logistic regression,Proper (all steps inside folds)
+1,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.014093240965029657,2,Logistic regression,Proper (all steps inside folds)
+2,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.012423528906841844,1,Logistic regression,Proper (all steps inside folds)
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.004540461109649623,0,Logistic regression,Proper (all steps inside folds)
+4,0.9875,1.0,0.98,1.0,0.98989898989899,0.9966666666666667,0.013132652807224199,1,Logistic regression,Proper (all steps inside folds)
+5,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010046092531250843,1,Logistic regression,Proper (all steps inside folds)
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.006162389472399726,0,Logistic regression,Proper (all steps inside folds)
+7,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009527734073558539,1,Logistic regression,Proper (all steps inside folds)
+8,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007409200275280826,1,Logistic regression,Proper (all steps inside folds)
+9,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006690425483121846,1,Logistic regression,Proper (all steps inside folds)
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0035916795676771544,0,Logistic regression,Proper (all steps inside folds)
+11,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011222247614640838,1,Logistic regression,Proper (all steps inside folds)
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0013212659927338828,0,Logistic regression,Proper (all steps inside folds)
+13,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.015495433177021487,1,Logistic regression,Proper (all steps inside folds)
+14,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009589781264125494,1,Logistic regression,Proper (all steps inside folds)
+15,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.01220079670563204,1,Logistic regression,Proper (all steps inside folds)
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0011591051118685102,0,Logistic regression,Proper (all steps inside folds)
+17,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.010435318494640357,2,Logistic regression,Proper (all steps inside folds)
+18,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.010189362013834368,1,Logistic regression,Proper (all steps inside folds)
+19,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.015584838138385067,1,Logistic regression,Proper (all steps inside folds)
+20,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.01170742973276189,1,Logistic regression,Proper (all steps inside folds)
+21,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00858398277419213,1,Logistic regression,Proper (all steps inside folds)
+22,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006112671988203981,1,Logistic regression,Proper (all steps inside folds)
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.0012977224836741587,0,Logistic regression,Proper (all steps inside folds)
+24,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011615319220351172,2,Logistic regression,Proper (all steps inside folds)
+25,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008775457581847475,1,Logistic regression,Proper (all steps inside folds)
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0035814665023292773,0,Logistic regression,Proper (all steps inside folds)
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0046810896961580915,0,Logistic regression,Proper (all steps inside folds)
+28,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012270408296560769,2,Logistic regression,Proper (all steps inside folds)
+29,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00733268456212067,1,Logistic regression,Proper (all steps inside folds)
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0022490565035285306,0,Logistic regression,Proper (all steps inside folds)
+31,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.013474911936220172,2,Logistic regression,Proper (all steps inside folds)
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0032155883737822145,0,Logistic regression,Proper (all steps inside folds)
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.0074635076468124225,0,Logistic regression,Proper (all steps inside folds)
+34,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011897279075247834,2,Logistic regression,Proper (all steps inside folds)
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.002905616738283234,0,Logistic regression,Proper (all steps inside folds)
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0038199160503663483,0,Logistic regression,Proper (all steps inside folds)
+37,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007433224184708574,1,Logistic regression,Proper (all steps inside folds)
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0028381554042112597,0,Logistic regression,Proper (all steps inside folds)
+39,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.01613918798618515,3,Logistic regression,Proper (all steps inside folds)
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.0029245380422228103,0,Logistic regression,Proper (all steps inside folds)
+41,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01579183126175077,2,Logistic regression,Proper (all steps inside folds)
+42,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004449271729938909,1,Logistic regression,Proper (all steps inside folds)
+43,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.009914257363358953,1,Logistic regression,Proper (all steps inside folds)
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.0072764923885468985,0,Logistic regression,Proper (all steps inside folds)
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.001596110770473664,0,Logistic regression,Proper (all steps inside folds)
+46,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.017631093983483722,1,Logistic regression,Proper (all steps inside folds)
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.003191060588705885,0,Logistic regression,Proper (all steps inside folds)
+48,0.975,1.0,0.96,1.0,0.9795918367346939,0.998,0.01817218042415511,2,Logistic regression,Proper (all steps inside folds)
+49,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00735316567645098,1,Logistic regression,Proper (all steps inside folds)
+0,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005649509164528996,1,Logistic regression,Leak A: preprocessing and selection on all data
+1,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012335149715646433,2,Logistic regression,Leak A: preprocessing and selection on all data
+2,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010184446677551404,1,Logistic regression,Leak A: preprocessing and selection on all data
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.004424668207282947,0,Logistic regression,Leak A: preprocessing and selection on all data
+4,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00804708270435907,1,Logistic regression,Leak A: preprocessing and selection on all data
+5,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010167112965691099,1,Logistic regression,Leak A: preprocessing and selection on all data
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.004167917363214716,0,Logistic regression,Leak A: preprocessing and selection on all data
+7,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009869651896184935,1,Logistic regression,Leak A: preprocessing and selection on all data
+8,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007564002854054411,1,Logistic regression,Leak A: preprocessing and selection on all data
+9,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0065547058240995725,1,Logistic regression,Leak A: preprocessing and selection on all data
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.002765607349587063,0,Logistic regression,Leak A: preprocessing and selection on all data
+11,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01465671772750184,2,Logistic regression,Leak A: preprocessing and selection on all data
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0014537429630931068,0,Logistic regression,Leak A: preprocessing and selection on all data
+13,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.017409903576340525,1,Logistic regression,Leak A: preprocessing and selection on all data
+14,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009713914722423415,1,Logistic regression,Leak A: preprocessing and selection on all data
+15,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00981667558688286,1,Logistic regression,Leak A: preprocessing and selection on all data
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.001123075833677572,0,Logistic regression,Leak A: preprocessing and selection on all data
+17,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.009778924667322228,2,Logistic regression,Leak A: preprocessing and selection on all data
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.004390601804208745,0,Logistic regression,Leak A: preprocessing and selection on all data
+19,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.014341859258768335,1,Logistic regression,Leak A: preprocessing and selection on all data
+20,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.013450287365472036,1,Logistic regression,Leak A: preprocessing and selection on all data
+21,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007763637711407588,1,Logistic regression,Leak A: preprocessing and selection on all data
+22,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0067165684505185504,1,Logistic regression,Leak A: preprocessing and selection on all data
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.0013333985032683436,0,Logistic regression,Leak A: preprocessing and selection on all data
+24,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.010447278009052258,2,Logistic regression,Leak A: preprocessing and selection on all data
+25,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008226164286704463,1,Logistic regression,Leak A: preprocessing and selection on all data
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.004122027194069296,0,Logistic regression,Leak A: preprocessing and selection on all data
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0037239387797780425,0,Logistic regression,Leak A: preprocessing and selection on all data
+28,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012614039749546002,2,Logistic regression,Leak A: preprocessing and selection on all data
+29,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006076965397368923,1,Logistic regression,Leak A: preprocessing and selection on all data
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0024124455226279254,0,Logistic regression,Leak A: preprocessing and selection on all data
+31,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011628672912029483,2,Logistic regression,Leak A: preprocessing and selection on all data
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0029939253563028593,0,Logistic regression,Leak A: preprocessing and selection on all data
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.006874580816358458,0,Logistic regression,Leak A: preprocessing and selection on all data
+34,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011216291759332055,2,Logistic regression,Leak A: preprocessing and selection on all data
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.003083771351693035,0,Logistic regression,Leak A: preprocessing and selection on all data
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.004004513507169341,0,Logistic regression,Leak A: preprocessing and selection on all data
+37,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0080201337914152,1,Logistic regression,Leak A: preprocessing and selection on all data
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.003668931245351354,0,Logistic regression,Leak A: preprocessing and selection on all data
+39,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.015501431855817222,3,Logistic regression,Leak A: preprocessing and selection on all data
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.0034777236980442564,0,Logistic regression,Leak A: preprocessing and selection on all data
+41,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012561137315911939,2,Logistic regression,Leak A: preprocessing and selection on all data
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.002932232580311464,0,Logistic regression,Leak A: preprocessing and selection on all data
+43,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.008517111588222936,1,Logistic regression,Leak A: preprocessing and selection on all data
+44,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008908821797199143,1,Logistic regression,Leak A: preprocessing and selection on all data
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0017200580485481121,0,Logistic regression,Leak A: preprocessing and selection on all data
+46,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.018275280244507103,2,Logistic regression,Leak A: preprocessing and selection on all data
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.001450296478171155,0,Logistic regression,Leak A: preprocessing and selection on all data
+48,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333333,0.012604665992672705,2,Logistic regression,Leak A: preprocessing and selection on all data
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.005355406286096128,0,Logistic regression,Leak A: preprocessing and selection on all data
+0,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005023971512476197,1,Logistic regression,Leak B: class-conditional imputation on all data
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0020776272088410363,0,Logistic regression,Leak B: class-conditional imputation on all data
+2,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007221397692612567,1,Logistic regression,Leak B: class-conditional imputation on all data
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.0020909852073540134,0,Logistic regression,Leak B: class-conditional imputation on all data
+4,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004264932640631087,1,Logistic regression,Leak B: class-conditional imputation on all data
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.0018402853613760793,0,Logistic regression,Leak B: class-conditional imputation on all data
+6,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006118473152795576,1,Logistic regression,Leak B: class-conditional imputation on all data
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.0026190455940140467,0,Logistic regression,Leak B: class-conditional imputation on all data
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0033715642229382977,0,Logistic regression,Leak B: class-conditional imputation on all data
+9,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00499842440730084,1,Logistic regression,Leak B: class-conditional imputation on all data
+10,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005468464123348294,1,Logistic regression,Leak B: class-conditional imputation on all data
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.003373079560892417,0,Logistic regression,Leak B: class-conditional imputation on all data
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0005655218121673911,0,Logistic regression,Leak B: class-conditional imputation on all data
+13,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012922856598810137,2,Logistic regression,Leak B: class-conditional imputation on all data
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.0018639522549842753,0,Logistic regression,Leak B: class-conditional imputation on all data
+15,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.010002745268609364,2,Logistic regression,Leak B: class-conditional imputation on all data
+16,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004804041869307593,1,Logistic regression,Leak B: class-conditional imputation on all data
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.0014821578405101738,0,Logistic regression,Leak B: class-conditional imputation on all data
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.003487722294399048,0,Logistic regression,Leak B: class-conditional imputation on all data
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.0016771212202261146,0,Logistic regression,Leak B: class-conditional imputation on all data
+20,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007502073946426162,1,Logistic regression,Leak B: class-conditional imputation on all data
+21,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004250040799816597,1,Logistic regression,Leak B: class-conditional imputation on all data
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0027621728197026333,0,Logistic regression,Leak B: class-conditional imputation on all data
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.001850666433311568,0,Logistic regression,Leak B: class-conditional imputation on all data
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0013393066087988928,0,Logistic regression,Leak B: class-conditional imputation on all data
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.004102830765779597,0,Logistic regression,Leak B: class-conditional imputation on all data
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.003679997408061056,0,Logistic regression,Leak B: class-conditional imputation on all data
+27,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005204631646407007,1,Logistic regression,Leak B: class-conditional imputation on all data
+28,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004552658553808558,1,Logistic regression,Leak B: class-conditional imputation on all data
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0014487840238273791,0,Logistic regression,Leak B: class-conditional imputation on all data
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0004538107185655996,0,Logistic regression,Leak B: class-conditional imputation on all data
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.0015370433041317529,0,Logistic regression,Leak B: class-conditional imputation on all data
+32,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0043013128242879155,1,Logistic regression,Leak B: class-conditional imputation on all data
+33,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009397758547367886,1,Logistic regression,Leak B: class-conditional imputation on all data
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.004116199624937415,0,Logistic regression,Leak B: class-conditional imputation on all data
+35,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004920175541587055,1,Logistic regression,Leak B: class-conditional imputation on all data
+36,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006685101942101484,1,Logistic regression,Leak B: class-conditional imputation on all data
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.0030221138247716653,0,Logistic regression,Leak B: class-conditional imputation on all data
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0010849232683795753,0,Logistic regression,Leak B: class-conditional imputation on all data
+39,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00801799227292467,1,Logistic regression,Leak B: class-conditional imputation on all data
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.003275760181429573,0,Logistic regression,Leak B: class-conditional imputation on all data
+41,1.0,1.0,1.0,1.0,1.0,1.0,0.0009990494537590981,0,Logistic regression,Leak B: class-conditional imputation on all data
+42,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.003865374048814366,1,Logistic regression,Leak B: class-conditional imputation on all data
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.004329575384090519,0,Logistic regression,Leak B: class-conditional imputation on all data
+44,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00685067792813932,1,Logistic regression,Leak B: class-conditional imputation on all data
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0014864315364630826,0,Logistic regression,Leak B: class-conditional imputation on all data
+46,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00536839392469476,1,Logistic regression,Leak B: class-conditional imputation on all data
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0021883596166831555,0,Logistic regression,Leak B: class-conditional imputation on all data
+48,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009445933266208366,1,Logistic regression,Leak B: class-conditional imputation on all data
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0021211628935819604,0,Logistic regression,Leak B: class-conditional imputation on all data
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.005835449866525242,0,Logistic regression,"Proper, label-free median imputation"
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.006041997519609278,0,Logistic regression,"Proper, label-free median imputation"
+2,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.01092927112507293,1,Logistic regression,"Proper, label-free median imputation"
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.00786493831553715,0,Logistic regression,"Proper, label-free median imputation"
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.00490921165755089,0,Logistic regression,"Proper, label-free median imputation"
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.006958720895256114,0,Logistic regression,"Proper, label-free median imputation"
+6,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008220630619250961,1,Logistic regression,"Proper, label-free median imputation"
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.00911600799816795,0,Logistic regression,"Proper, label-free median imputation"
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0017236210516786469,0,Logistic regression,"Proper, label-free median imputation"
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.008189567121589567,0,Logistic regression,"Proper, label-free median imputation"
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.00554634504003775,0,Logistic regression,"Proper, label-free median imputation"
+11,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.012753218138557312,1,Logistic regression,"Proper, label-free median imputation"
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0022605720870840238,0,Logistic regression,"Proper, label-free median imputation"
+13,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008807793882248716,1,Logistic regression,"Proper, label-free median imputation"
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.00566317025455944,0,Logistic regression,"Proper, label-free median imputation"
+15,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333333,0.011739683213234108,2,Logistic regression,"Proper, label-free median imputation"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0023179688819722584,0,Logistic regression,"Proper, label-free median imputation"
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.004941875462440045,0,Logistic regression,"Proper, label-free median imputation"
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.00836409737515978,0,Logistic regression,"Proper, label-free median imputation"
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.008206493966573053,0,Logistic regression,"Proper, label-free median imputation"
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.007579838452936624,0,Logistic regression,"Proper, label-free median imputation"
+21,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011329104348447193,2,Logistic regression,"Proper, label-free median imputation"
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.00575627039173693,0,Logistic regression,"Proper, label-free median imputation"
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.004868337075456765,0,Logistic regression,"Proper, label-free median imputation"
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.005451388800089844,0,Logistic regression,"Proper, label-free median imputation"
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.008780348690789957,0,Logistic regression,"Proper, label-free median imputation"
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.006079481765276952,0,Logistic regression,"Proper, label-free median imputation"
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.004299894628574363,0,Logistic regression,"Proper, label-free median imputation"
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.0058135269281412655,0,Logistic regression,"Proper, label-free median imputation"
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.00399620329722448,0,Logistic regression,"Proper, label-free median imputation"
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.002669973710967669,0,Logistic regression,"Proper, label-free median imputation"
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.005217557611387719,0,Logistic regression,"Proper, label-free median imputation"
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.009676860849132756,0,Logistic regression,"Proper, label-free median imputation"
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.012349443348083916,0,Logistic regression,"Proper, label-free median imputation"
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.0034611528370167275,0,Logistic regression,"Proper, label-free median imputation"
+35,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333333,0.010470772611479525,2,Logistic regression,"Proper, label-free median imputation"
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.010334658141815636,0,Logistic regression,"Proper, label-free median imputation"
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.005574906357310494,0,Logistic regression,"Proper, label-free median imputation"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.003117596153689754,0,Logistic regression,"Proper, label-free median imputation"
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.005500839825134278,0,Logistic regression,"Proper, label-free median imputation"
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.005181665606203506,0,Logistic regression,"Proper, label-free median imputation"
+41,1.0,1.0,1.0,1.0,1.0,1.0,0.004455011033996175,0,Logistic regression,"Proper, label-free median imputation"
+42,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00795494952098812,1,Logistic regression,"Proper, label-free median imputation"
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.006161160035773933,0,Logistic regression,"Proper, label-free median imputation"
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.007787292797938458,0,Logistic regression,"Proper, label-free median imputation"
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.005305173135597345,0,Logistic regression,"Proper, label-free median imputation"
+46,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009503535108859462,1,Logistic regression,"Proper, label-free median imputation"
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.005795901378500031,0,Logistic regression,"Proper, label-free median imputation"
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.00940534606500689,0,Logistic regression,"Proper, label-free median imputation"
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.004723579339562167,0,Logistic regression,"Proper, label-free median imputation"
+0,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.009438775510204084,1,k-nearest neighbours,Proper (all steps inside folds)
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.007142857142857143,0,k-nearest neighbours,Proper (all steps inside folds)
+2,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.01938775510204082,2,k-nearest neighbours,Proper (all steps inside folds)
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.001785714285714285,0,k-nearest neighbours,Proper (all steps inside folds)
+4,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.007908163265306124,1,k-nearest neighbours,Proper (all steps inside folds)
+5,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.019642857142857142,2,k-nearest neighbours,Proper (all steps inside folds)
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0020408163265306116,0,k-nearest neighbours,Proper (all steps inside folds)
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.0020408163265306116,0,k-nearest neighbours,Proper (all steps inside folds)
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0017857142857142857,0,k-nearest neighbours,Proper (all steps inside folds)
+9,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.00969387755102041,1,k-nearest neighbours,Proper (all steps inside folds)
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0010204081632653058,0,k-nearest neighbours,Proper (all steps inside folds)
+11,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.017346938775510204,2,k-nearest neighbours,Proper (all steps inside folds)
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0007653061224489791,0,k-nearest neighbours,Proper (all steps inside folds)
+13,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007142857142857143,1,k-nearest neighbours,Proper (all steps inside folds)
+14,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.014030612244897961,1,k-nearest neighbours,Proper (all steps inside folds)
+15,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009438775510204082,1,k-nearest neighbours,Proper (all steps inside folds)
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0010204081632653056,0,k-nearest neighbours,Proper (all steps inside folds)
+17,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.013775510204081631,1,k-nearest neighbours,Proper (all steps inside folds)
+18,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0061224489795918356,1,k-nearest neighbours,Proper (all steps inside folds)
+19,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.023724489795918367,2,k-nearest neighbours,Proper (all steps inside folds)
+20,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.008928571428571428,2,k-nearest neighbours,Proper (all steps inside folds)
+21,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.015306122448979591,1,k-nearest neighbours,Proper (all steps inside folds)
+22,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009183673469387754,1,k-nearest neighbours,Proper (all steps inside folds)
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.00025510204081632666,0,k-nearest neighbours,Proper (all steps inside folds)
+24,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0061224489795918356,1,k-nearest neighbours,Proper (all steps inside folds)
+25,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333334,0.014030612244897961,2,k-nearest neighbours,Proper (all steps inside folds)
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.002551020408163265,0,k-nearest neighbours,Proper (all steps inside folds)
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.003316326530612245,0,k-nearest neighbours,Proper (all steps inside folds)
+28,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.013775510204081631,1,k-nearest neighbours,Proper (all steps inside folds)
+29,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005357142857142856,1,k-nearest neighbours,Proper (all steps inside folds)
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,k-nearest neighbours,Proper (all steps inside folds)
+31,0.975,1.0,0.96,1.0,0.9795918367346939,0.9996666666666667,0.013775510204081635,2,k-nearest neighbours,Proper (all steps inside folds)
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.003826530612244898,0,k-nearest neighbours,Proper (all steps inside folds)
+33,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.01173469387755102,1,k-nearest neighbours,Proper (all steps inside folds)
+34,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011734693877551022,1,k-nearest neighbours,Proper (all steps inside folds)
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0010204081632653058,0,k-nearest neighbours,Proper (all steps inside folds)
+36,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006377551020408162,1,k-nearest neighbours,Proper (all steps inside folds)
+37,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.014285714285714287,1,k-nearest neighbours,Proper (all steps inside folds)
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0007653061224489791,0,k-nearest neighbours,Proper (all steps inside folds)
+39,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.015306122448979591,1,k-nearest neighbours,Proper (all steps inside folds)
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.0020408163265306124,0,k-nearest neighbours,Proper (all steps inside folds)
+41,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.025,2,k-nearest neighbours,Proper (all steps inside folds)
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0035714285714285718,0,k-nearest neighbours,Proper (all steps inside folds)
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.0025510204081632647,0,k-nearest neighbours,Proper (all steps inside folds)
+44,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009438775510204084,1,k-nearest neighbours,Proper (all steps inside folds)
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0007653061224489794,0,k-nearest neighbours,Proper (all steps inside folds)
+46,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.02423469387755102,2,k-nearest neighbours,Proper (all steps inside folds)
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0007653061224489798,0,k-nearest neighbours,Proper (all steps inside folds)
+48,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011734693877551019,2,k-nearest neighbours,Proper (all steps inside folds)
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.005102040816326531,0,k-nearest neighbours,Proper (all steps inside folds)
+0,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.012755102040816327,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.005357142857142857,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+2,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.016071428571428573,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+3,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004846938775510202,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.004846938775510205,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+5,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.02066326530612245,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.004336734693877552,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.0030612244897959173,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0035714285714285713,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+9,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.00969387755102041,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0007653061224489794,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+11,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.022704081632653063,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.001785714285714285,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+13,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009438775510204082,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+14,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.01479591836734694,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+15,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007908163265306124,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0005102040816326528,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+17,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.01045918367346939,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+18,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005867346938775509,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+19,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.023469387755102038,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+20,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.010969387755102039,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+21,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.016071428571428573,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+22,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.013775510204081635,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.0028061224489795925,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.003316326530612245,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+25,0.975,1.0,0.96,1.0,0.9795918367346939,0.9893333333333334,0.01913265306122449,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.004081632653061225,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0005102040816326528,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+28,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.01683673469387755,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+29,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.011479591836734696,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+31,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.01479591836734694,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0035714285714285713,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+33,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010204081632653062,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+34,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.01479591836734694,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0007653061224489794,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+36,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008673469387755102,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+37,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.017091836734693878,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.001785714285714285,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+39,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.01607142857142857,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.006122448979591836,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+41,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.025,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0010204081632653058,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+43,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.004846938775510203,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+44,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009948979591836734,1,k-nearest neighbours,Leak A: preprocessing and selection on all data
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0017857142857142857,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+46,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.02168367346938776,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0012755102040816328,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+48,0.975,1.0,0.96,1.0,0.9795918367346939,0.9896666666666666,0.01683673469387755,2,k-nearest neighbours,Leak A: preprocessing and selection on all data
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0015306122448979589,0,k-nearest neighbours,Leak A: preprocessing and selection on all data
+0,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.019132653061224487,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+1,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007653061224489796,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+2,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.02831632653061225,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+3,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.013520408163265307,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+4,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012244897959183673,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+5,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.020918367346938777,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+6,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.021683673469387755,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+7,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.013010204081632653,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0012755102040816328,0,k-nearest neighbours,Leak B: class-conditional imputation on all data
+9,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.026530612244897965,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+10,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.015816326530612247,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+11,0.9625,1.0,0.94,1.0,0.9690721649484536,0.99,0.029336734693877552,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0015306122448979595,0,k-nearest neighbours,Leak B: class-conditional imputation on all data
+13,0.9375,1.0,0.9,1.0,0.9473684210526315,1.0,0.0354591836734694,5,k-nearest neighbours,Leak B: class-conditional imputation on all data
+14,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006887755102040817,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+15,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.013010204081632656,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+16,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.020408163265306124,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+17,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01326530612244898,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+18,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.015306122448979591,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+19,0.9625,1.0,0.94,1.0,0.9690721649484536,0.99,0.02423469387755102,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+20,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.021173469387755103,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+21,0.95,1.0,0.92,1.0,0.9583333333333334,0.98,0.03673469387755102,4,k-nearest neighbours,Leak B: class-conditional imputation on all data
+22,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.009183673469387756,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+23,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012755102040816327,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0035714285714285718,0,k-nearest neighbours,Leak B: class-conditional imputation on all data
+25,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.018367346938775515,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+26,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010969387755102044,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+27,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.016071428571428573,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+28,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.010714285714285714,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+29,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.01683673469387755,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+30,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007908163265306124,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.0025510204081632655,0,k-nearest neighbours,Leak B: class-conditional imputation on all data
+32,0.9625,1.0,0.94,1.0,0.9690721649484536,0.98,0.03673469387755102,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+33,0.9625,1.0,0.94,1.0,0.9690721649484536,0.99,0.03392857142857143,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+34,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.016581632653061226,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+35,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00969387755102041,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+36,0.95,1.0,0.92,1.0,0.9583333333333334,0.99,0.031122448979591832,4,k-nearest neighbours,Leak B: class-conditional imputation on all data
+37,0.9625,1.0,0.94,1.0,0.9690721649484536,0.99,0.031377551020408165,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0017857142857142863,0,k-nearest neighbours,Leak B: class-conditional imputation on all data
+39,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.015816326530612247,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+40,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.023724489795918367,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+41,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.013010204081632656,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+42,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010714285714285716,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+43,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006377551020408163,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+44,0.9625,1.0,0.94,1.0,0.9690721649484536,0.98,0.03035714285714286,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+45,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006377551020408162,1,k-nearest neighbours,Leak B: class-conditional imputation on all data
+46,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.02448979591836735,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.004591836734693878,0,k-nearest neighbours,Leak B: class-conditional imputation on all data
+48,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.024744897959183672,2,k-nearest neighbours,Leak B: class-conditional imputation on all data
+49,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.020153061224489798,3,k-nearest neighbours,Leak B: class-conditional imputation on all data
+0,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01683673469387755,2,k-nearest neighbours,"Proper, label-free median imputation"
+1,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.020408163265306124,3,k-nearest neighbours,"Proper, label-free median imputation"
+2,0.95,1.0,0.92,1.0,0.9583333333333334,0.9993333333333333,0.0364795918367347,4,k-nearest neighbours,"Proper, label-free median imputation"
+3,0.9875,1.0,0.98,1.0,0.98989898989899,0.9896666666666666,0.01530612244897959,1,k-nearest neighbours,"Proper, label-free median imputation"
+4,0.975,1.0,0.96,1.0,0.9795918367346939,0.9996666666666667,0.026020408163265313,2,k-nearest neighbours,"Proper, label-free median imputation"
+5,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9886666666666667,0.033163265306122444,3,k-nearest neighbours,"Proper, label-free median imputation"
+6,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.026275510204081635,2,k-nearest neighbours,"Proper, label-free median imputation"
+7,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.020408163265306124,2,k-nearest neighbours,"Proper, label-free median imputation"
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.005357142857142856,0,k-nearest neighbours,"Proper, label-free median imputation"
+9,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9996666666666667,0.029336734693877552,3,k-nearest neighbours,"Proper, label-free median imputation"
+10,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01709183673469388,2,k-nearest neighbours,"Proper, label-free median imputation"
+11,0.9375,1.0,0.9,1.0,0.9473684210526315,0.988,0.050765306122448985,5,k-nearest neighbours,"Proper, label-free median imputation"
+12,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.01326530612244898,1,k-nearest neighbours,"Proper, label-free median imputation"
+13,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9886666666666667,0.034438775510204085,3,k-nearest neighbours,"Proper, label-free median imputation"
+14,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333333,0.014540816326530615,2,k-nearest neighbours,"Proper, label-free median imputation"
+15,0.9875,1.0,0.98,1.0,0.98989898989899,0.989,0.019642857142857146,1,k-nearest neighbours,"Proper, label-free median imputation"
+16,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333334,0.018112244897959186,2,k-nearest neighbours,"Proper, label-free median imputation"
+17,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.021173469387755106,3,k-nearest neighbours,"Proper, label-free median imputation"
+18,0.975,1.0,0.96,1.0,0.9795918367346939,0.9996666666666667,0.02168367346938776,2,k-nearest neighbours,"Proper, label-free median imputation"
+19,0.9375,1.0,0.9,1.0,0.9473684210526315,0.98,0.048214285714285716,5,k-nearest neighbours,"Proper, label-free median imputation"
+20,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.020918367346938777,3,k-nearest neighbours,"Proper, label-free median imputation"
+21,0.95,1.0,0.92,1.0,0.9583333333333334,0.99,0.04107142857142858,4,k-nearest neighbours,"Proper, label-free median imputation"
+22,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.019387755102040816,2,k-nearest neighbours,"Proper, label-free median imputation"
+23,0.9875,1.0,0.98,1.0,0.98989898989899,0.9996666666666667,0.014795918367346941,1,k-nearest neighbours,"Proper, label-free median imputation"
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.009183673469387756,0,k-nearest neighbours,"Proper, label-free median imputation"
+25,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9993333333333333,0.031632653061224494,3,k-nearest neighbours,"Proper, label-free median imputation"
+26,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.019897959183673472,2,k-nearest neighbours,"Proper, label-free median imputation"
+27,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.012244897959183675,1,k-nearest neighbours,"Proper, label-free median imputation"
+28,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333333,0.02168367346938776,2,k-nearest neighbours,"Proper, label-free median imputation"
+29,0.95,1.0,0.92,1.0,0.9583333333333334,0.9896666666666666,0.028826530612244893,4,k-nearest neighbours,"Proper, label-free median imputation"
+30,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011989795918367348,1,k-nearest neighbours,"Proper, label-free median imputation"
+31,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01479591836734694,2,k-nearest neighbours,"Proper, label-free median imputation"
+32,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9863333333333334,0.03545918367346939,3,k-nearest neighbours,"Proper, label-free median imputation"
+33,0.95,1.0,0.92,1.0,0.9583333333333334,1.0,0.03698979591836735,4,k-nearest neighbours,"Proper, label-free median imputation"
+34,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.020663265306122454,2,k-nearest neighbours,"Proper, label-free median imputation"
+35,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333334,0.01122448979591837,1,k-nearest neighbours,"Proper, label-free median imputation"
+36,0.95,1.0,0.92,1.0,0.9583333333333334,1.0,0.0326530612244898,4,k-nearest neighbours,"Proper, label-free median imputation"
+37,0.9375,1.0,0.9,1.0,0.9473684210526315,0.989,0.04336734693877552,5,k-nearest neighbours,"Proper, label-free median imputation"
+38,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.014030612244897961,1,k-nearest neighbours,"Proper, label-free median imputation"
+39,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.015051020408163265,2,k-nearest neighbours,"Proper, label-free median imputation"
+40,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333333,0.028571428571428574,2,k-nearest neighbours,"Proper, label-free median imputation"
+41,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9996666666666667,0.02551020408163266,3,k-nearest neighbours,"Proper, label-free median imputation"
+42,0.975,1.0,0.96,1.0,0.9795918367346939,0.9996666666666667,0.02219387755102041,2,k-nearest neighbours,"Proper, label-free median imputation"
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.005102040816326531,0,k-nearest neighbours,"Proper, label-free median imputation"
+44,0.95,1.0,0.92,1.0,0.9583333333333334,0.9886666666666667,0.03571428571428571,4,k-nearest neighbours,"Proper, label-free median imputation"
+45,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.01913265306122449,3,k-nearest neighbours,"Proper, label-free median imputation"
+46,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9793333333333334,0.0375,3,k-nearest neighbours,"Proper, label-free median imputation"
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.007908163265306124,0,k-nearest neighbours,"Proper, label-free median imputation"
+48,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.02678571428571429,3,k-nearest neighbours,"Proper, label-free median imputation"
+49,0.975,1.0,0.96,1.0,0.9795918367346939,0.9973333333333334,0.022704081632653066,2,k-nearest neighbours,"Proper, label-free median imputation"
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.0021361000000000006,0,Random forest,Proper (all steps inside folds)
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0015539000000000004,0,Random forest,Proper (all steps inside folds)
+2,1.0,1.0,1.0,1.0,1.0,1.0,0.0051303999999999985,0,Random forest,Proper (all steps inside folds)
+3,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.0039889,1,Random forest,Proper (all steps inside folds)
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.003396250000000001,0,Random forest,Proper (all steps inside folds)
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.004844550000000001,0,Random forest,Proper (all steps inside folds)
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0017376499999999999,0,Random forest,Proper (all steps inside folds)
+7,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.00526475,1,Random forest,Proper (all steps inside folds)
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0014490000000000002,0,Random forest,Proper (all steps inside folds)
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.0013631500000000005,0,Random forest,Proper (all steps inside folds)
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.00050945,0,Random forest,Proper (all steps inside folds)
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.00186155,0,Random forest,Proper (all steps inside folds)
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.00037690000000000016,0,Random forest,Proper (all steps inside folds)
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.006440749999999999,0,Random forest,Proper (all steps inside folds)
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.002960749999999999,0,Random forest,Proper (all steps inside folds)
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.003475400000000001,0,Random forest,Proper (all steps inside folds)
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0004901500000000003,0,Random forest,Proper (all steps inside folds)
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.00479265,0,Random forest,Proper (all steps inside folds)
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.0016279500000000002,0,Random forest,Proper (all steps inside folds)
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.0032119500000000003,0,Random forest,Proper (all steps inside folds)
+20,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.009344,1,Random forest,Proper (all steps inside folds)
+21,1.0,1.0,1.0,1.0,1.0,1.0,0.00173,0,Random forest,Proper (all steps inside folds)
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0022478,0,Random forest,Proper (all steps inside folds)
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.0009871,0,Random forest,Proper (all steps inside folds)
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0021047000000000006,0,Random forest,Proper (all steps inside folds)
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.0033460500000000006,0,Random forest,Proper (all steps inside folds)
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.002321900000000001,0,Random forest,Proper (all steps inside folds)
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0015525,0,Random forest,Proper (all steps inside folds)
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.0037373999999999997,0,Random forest,Proper (all steps inside folds)
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0018778500000000004,0,Random forest,Proper (all steps inside folds)
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0026115500000000007,0,Random forest,Proper (all steps inside folds)
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.00321675,0,Random forest,Proper (all steps inside folds)
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0012754499999999998,0,Random forest,Proper (all steps inside folds)
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.0025231000000000003,0,Random forest,Proper (all steps inside folds)
+34,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.0080474,1,Random forest,Proper (all steps inside folds)
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0007754000000000002,0,Random forest,Proper (all steps inside folds)
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0011495000000000003,0,Random forest,Proper (all steps inside folds)
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.0032012,0,Random forest,Proper (all steps inside folds)
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0009498000000000003,0,Random forest,Proper (all steps inside folds)
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.004679799999999999,0,Random forest,Proper (all steps inside folds)
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.0015401500000000003,0,Random forest,Proper (all steps inside folds)
+41,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.0104851,2,Random forest,Proper (all steps inside folds)
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0024777999999999996,0,Random forest,Proper (all steps inside folds)
+43,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.006140850000000001,1,Random forest,Proper (all steps inside folds)
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.0034771499999999996,0,Random forest,Proper (all steps inside folds)
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.00196655,0,Random forest,Proper (all steps inside folds)
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.009262749999999998,0,Random forest,Proper (all steps inside folds)
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0014374000000000006,0,Random forest,Proper (all steps inside folds)
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.00602725,0,Random forest,Proper (all steps inside folds)
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0010402000000000002,0,Random forest,Proper (all steps inside folds)
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.0017797000000000004,0,Random forest,Leak A: preprocessing and selection on all data
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0014824,0,Random forest,Leak A: preprocessing and selection on all data
+2,1.0,1.0,1.0,1.0,1.0,1.0,0.004517499999999998,0,Random forest,Leak A: preprocessing and selection on all data
+3,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.004050300000000001,1,Random forest,Leak A: preprocessing and selection on all data
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.0015498000000000005,0,Random forest,Leak A: preprocessing and selection on all data
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.0034624499999999997,0,Random forest,Leak A: preprocessing and selection on all data
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0013132,0,Random forest,Leak A: preprocessing and selection on all data
+7,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.005155949999999999,1,Random forest,Leak A: preprocessing and selection on all data
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.00103775,0,Random forest,Leak A: preprocessing and selection on all data
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.0022629499999999993,0,Random forest,Leak A: preprocessing and selection on all data
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0003562000000000002,0,Random forest,Leak A: preprocessing and selection on all data
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.0018565500000000002,0,Random forest,Leak A: preprocessing and selection on all data
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.00048125000000000023,0,Random forest,Leak A: preprocessing and selection on all data
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.007389700000000002,0,Random forest,Leak A: preprocessing and selection on all data
+14,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.0052028,1,Random forest,Leak A: preprocessing and selection on all data
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.0024758999999999996,0,Random forest,Leak A: preprocessing and selection on all data
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.00034000000000000013,0,Random forest,Leak A: preprocessing and selection on all data
+17,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.006073450000000001,1,Random forest,Leak A: preprocessing and selection on all data
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.0014079499999999998,0,Random forest,Leak A: preprocessing and selection on all data
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.0034298999999999996,0,Random forest,Leak A: preprocessing and selection on all data
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.008430900000000002,0,Random forest,Leak A: preprocessing and selection on all data
+21,1.0,1.0,1.0,1.0,1.0,1.0,0.0017934,0,Random forest,Leak A: preprocessing and selection on all data
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0024606999999999997,0,Random forest,Leak A: preprocessing and selection on all data
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.0007405499999999999,0,Random forest,Leak A: preprocessing and selection on all data
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0016868,0,Random forest,Leak A: preprocessing and selection on all data
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.0040552,0,Random forest,Leak A: preprocessing and selection on all data
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0016365999999999998,0,Random forest,Leak A: preprocessing and selection on all data
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0014684000000000003,0,Random forest,Leak A: preprocessing and selection on all data
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.00453635,0,Random forest,Leak A: preprocessing and selection on all data
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0008818999999999997,0,Random forest,Leak A: preprocessing and selection on all data
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0014846999999999998,0,Random forest,Leak A: preprocessing and selection on all data
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.0032110999999999993,0,Random forest,Leak A: preprocessing and selection on all data
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0015372,0,Random forest,Leak A: preprocessing and selection on all data
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.0018050499999999997,0,Random forest,Leak A: preprocessing and selection on all data
+34,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.0060052499999999984,1,Random forest,Leak A: preprocessing and selection on all data
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.00113675,0,Random forest,Leak A: preprocessing and selection on all data
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0017600499999999998,0,Random forest,Leak A: preprocessing and selection on all data
+37,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.004947999999999999,1,Random forest,Leak A: preprocessing and selection on all data
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0008703000000000003,0,Random forest,Leak A: preprocessing and selection on all data
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.0044899499999999995,0,Random forest,Leak A: preprocessing and selection on all data
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.0014080500000000003,0,Random forest,Leak A: preprocessing and selection on all data
+41,1.0,1.0,1.0,1.0,1.0,1.0,0.005991500000000001,0,Random forest,Leak A: preprocessing and selection on all data
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0013162500000000001,0,Random forest,Leak A: preprocessing and selection on all data
+43,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.00538625,1,Random forest,Leak A: preprocessing and selection on all data
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.002886849999999999,0,Random forest,Leak A: preprocessing and selection on all data
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0009953,0,Random forest,Leak A: preprocessing and selection on all data
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.00705835,0,Random forest,Leak A: preprocessing and selection on all data
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0008592500000000001,0,Random forest,Leak A: preprocessing and selection on all data
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.0037405,0,Random forest,Leak A: preprocessing and selection on all data
+49,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.0035149000000000005,1,Random forest,Leak A: preprocessing and selection on all data
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.0026610499999999994,0,Random forest,Leak B: class-conditional imputation on all data
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0011644500000000003,0,Random forest,Leak B: class-conditional imputation on all data
+2,1.0,1.0,1.0,1.0,1.0,1.0,0.005005850000000001,0,Random forest,Leak B: class-conditional imputation on all data
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.0018005000000000005,0,Random forest,Leak B: class-conditional imputation on all data
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.0006108999999999999,0,Random forest,Leak B: class-conditional imputation on all data
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.0019299500000000008,0,Random forest,Leak B: class-conditional imputation on all data
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0018383000000000004,0,Random forest,Leak B: class-conditional imputation on all data
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.004534249999999999,0,Random forest,Leak B: class-conditional imputation on all data
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.00031610000000000004,0,Random forest,Leak B: class-conditional imputation on all data
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.0016806999999999996,0,Random forest,Leak B: class-conditional imputation on all data
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0024599000000000005,0,Random forest,Leak B: class-conditional imputation on all data
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.0014376999999999994,0,Random forest,Leak B: class-conditional imputation on all data
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0003344999999999999,0,Random forest,Leak B: class-conditional imputation on all data
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.005638449999999999,0,Random forest,Leak B: class-conditional imputation on all data
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.0008547500000000003,0,Random forest,Leak B: class-conditional imputation on all data
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.0013544000000000002,0,Random forest,Leak B: class-conditional imputation on all data
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0016297000000000006,0,Random forest,Leak B: class-conditional imputation on all data
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.003646649999999999,0,Random forest,Leak B: class-conditional imputation on all data
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.0028512000000000008,0,Random forest,Leak B: class-conditional imputation on all data
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.00114515,0,Random forest,Leak B: class-conditional imputation on all data
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.00298325,0,Random forest,Leak B: class-conditional imputation on all data
+21,1.0,1.0,1.0,1.0,1.0,1.0,0.0018323499999999995,0,Random forest,Leak B: class-conditional imputation on all data
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0010356500000000004,0,Random forest,Leak B: class-conditional imputation on all data
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.003619,0,Random forest,Leak B: class-conditional imputation on all data
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.00100465,0,Random forest,Leak B: class-conditional imputation on all data
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.0033735499999999995,0,Random forest,Leak B: class-conditional imputation on all data
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0009905499999999998,0,Random forest,Leak B: class-conditional imputation on all data
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.003706400000000001,0,Random forest,Leak B: class-conditional imputation on all data
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.0011760000000000004,0,Random forest,Leak B: class-conditional imputation on all data
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.00159155,0,Random forest,Leak B: class-conditional imputation on all data
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.00043260000000000016,0,Random forest,Leak B: class-conditional imputation on all data
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.00062675,0,Random forest,Leak B: class-conditional imputation on all data
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0021879000000000004,0,Random forest,Leak B: class-conditional imputation on all data
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.005396650000000001,0,Random forest,Leak B: class-conditional imputation on all data
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.0013141000000000003,0,Random forest,Leak B: class-conditional imputation on all data
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.00122995,0,Random forest,Leak B: class-conditional imputation on all data
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0016434000000000008,0,Random forest,Leak B: class-conditional imputation on all data
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.0015685999999999999,0,Random forest,Leak B: class-conditional imputation on all data
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0006928500000000003,0,Random forest,Leak B: class-conditional imputation on all data
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.005294150000000001,0,Random forest,Leak B: class-conditional imputation on all data
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.0034051000000000003,0,Random forest,Leak B: class-conditional imputation on all data
+41,1.0,1.0,1.0,1.0,1.0,1.0,0.0016748500000000003,0,Random forest,Leak B: class-conditional imputation on all data
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0007733500000000001,0,Random forest,Leak B: class-conditional imputation on all data
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.0012558,0,Random forest,Leak B: class-conditional imputation on all data
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.0025591999999999998,0,Random forest,Leak B: class-conditional imputation on all data
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0009962000000000003,0,Random forest,Leak B: class-conditional imputation on all data
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.00335,0,Random forest,Leak B: class-conditional imputation on all data
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0028025999999999997,0,Random forest,Leak B: class-conditional imputation on all data
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.0038196000000000007,0,Random forest,Leak B: class-conditional imputation on all data
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0009649500000000002,0,Random forest,Leak B: class-conditional imputation on all data
+0,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.009682549999999998,1,Random forest,"Proper, label-free median imputation"
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0032724500000000005,0,Random forest,"Proper, label-free median imputation"
+2,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.0134819,1,Random forest,"Proper, label-free median imputation"
+3,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.014054899999999999,2,Random forest,"Proper, label-free median imputation"
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.00372165,0,Random forest,"Proper, label-free median imputation"
+5,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00907655,1,Random forest,"Proper, label-free median imputation"
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0081846,0,Random forest,"Proper, label-free median imputation"
+7,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01080115,1,Random forest,"Proper, label-free median imputation"
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0017143000000000006,0,Random forest,"Proper, label-free median imputation"
+9,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.9993333333333334,0.014144750000000001,2,Random forest,"Proper, label-free median imputation"
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.004506199999999999,0,Random forest,"Proper, label-free median imputation"
+11,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.0131886,1,Random forest,"Proper, label-free median imputation"
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.00393415,0,Random forest,"Proper, label-free median imputation"
+13,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.013583000000000001,1,Random forest,"Proper, label-free median imputation"
+14,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9999999999999999,0.007701000000000002,1,Random forest,"Proper, label-free median imputation"
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.0092065,0,Random forest,"Proper, label-free median imputation"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.004630499999999999,0,Random forest,"Proper, label-free median imputation"
+17,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333334,0.01411715,2,Random forest,"Proper, label-free median imputation"
+18,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.010200149999999998,1,Random forest,"Proper, label-free median imputation"
+19,1.0,1.0,1.0,1.0,1.0,0.9999999999999999,0.00501675,0,Random forest,"Proper, label-free median imputation"
+20,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333333,0.013708200000000004,2,Random forest,"Proper, label-free median imputation"
+21,1.0,1.0,1.0,1.0,1.0,1.0,0.0046539,0,Random forest,"Proper, label-free median imputation"
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.00751395,0,Random forest,"Proper, label-free median imputation"
+23,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.01066405,1,Random forest,"Proper, label-free median imputation"
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0078954,0,Random forest,"Proper, label-free median imputation"
+25,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.010058349999999999,1,Random forest,"Proper, label-free median imputation"
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.007361499999999998,0,Random forest,"Proper, label-free median imputation"
+27,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.011128650000000002,1,Random forest,"Proper, label-free median imputation"
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.005163249999999999,0,Random forest,"Proper, label-free median imputation"
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0038536,0,Random forest,"Proper, label-free median imputation"
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0029054500000000004,0,Random forest,"Proper, label-free median imputation"
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.0032247499999999998,0,Random forest,"Proper, label-free median imputation"
+32,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.9993333333333334,0.01759555,2,Random forest,"Proper, label-free median imputation"
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.012380450000000001,0,Random forest,"Proper, label-free median imputation"
+34,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007641899999999998,1,Random forest,"Proper, label-free median imputation"
+35,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.9993333333333333,0.013202700000000001,2,Random forest,"Proper, label-free median imputation"
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0063476,0,Random forest,"Proper, label-free median imputation"
+37,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.00934735,1,Random forest,"Proper, label-free median imputation"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.00340595,0,Random forest,"Proper, label-free median imputation"
+39,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.013537750000000001,1,Random forest,"Proper, label-free median imputation"
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.007263399999999999,0,Random forest,"Proper, label-free median imputation"
+41,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0083411,1,Random forest,"Proper, label-free median imputation"
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.00368935,0,Random forest,"Proper, label-free median imputation"
+43,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.010562350000000002,1,Random forest,"Proper, label-free median imputation"
+44,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333334,0.01336,1,Random forest,"Proper, label-free median imputation"
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.005256499999999999,0,Random forest,"Proper, label-free median imputation"
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.00726165,0,Random forest,"Proper, label-free median imputation"
+47,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.9986666666666667,0.016449400000000003,2,Random forest,"Proper, label-free median imputation"
+48,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0105675,1,Random forest,"Proper, label-free median imputation"
+49,1.0,1.0,1.0,1.0,1.0,0.9999999999999999,0.006121749999999999,0,Random forest,"Proper, label-free median imputation"

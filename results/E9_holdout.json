@@ -1,0 +1,43 @@
+{
+  "cv_f1_train": {
+    "Logistic regression": 0.9957805907172995,
+    "k-nearest neighbours": 0.9661537482989847,
+    "Support vector machine": 0.9974683544303797,
+    "Random forest": 0.9991769547325103,
+    "Extremely randomised trees": 1.0,
+    "Gradient boosting": 0.9942371584991049,
+    "Stacked ensemble": 0.9983330728759702
+  },
+  "selected": "Extremely randomised trees",
+  "tuned": {
+    "clf__n_estimators": "300",
+    "clf__min_samples_leaf": "1",
+    "clf__max_depth": "None"
+  },
+  "test": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "specificity": 1.0,
+    "f1": 1.0,
+    "auc": 1.0,
+    "brier": 0.004310833333333333,
+    "errors": 0
+  },
+  "test_acc_ci95": [
+    0.9549359649323077,
+    1.0
+  ],
+  "envelope_rule_test": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "specificity": 1.0,
+    "f1": 1.0,
+    "auc": 1.0,
+    "brier": 0.008415940308648083,
+    "errors": 0
+  },
+  "test_n": 80,
+  "test_ckd": 50
+}

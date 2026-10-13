@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "UCI CKD benchmark: leakage-free re-analysis (code, data and results)"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Salgi
+    given-names: Kimia
+    affiliation: "Faculty of Artificial Intelligence and Advanced Technologies, Islamic Azad University, Karaj Branch, Karaj, Iran"
+  - family-names: Ghapanvari
+    given-names: Erfan
+    affiliation: "School of Physics, Iran University of Science and Technology, Tehran, Iran"
+    email: erfan_ghapanvari@physics.iust.ac.ir
+keywords:
+  - chronic kidney disease
+  - machine learning
+  - data leakage
+  - benchmark
+  - reproducibility

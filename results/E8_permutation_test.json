@@ -1,0 +1,9 @@
+{
+  "accuracy": 0.9949999999999999,
+  "perm_mean": 0.58415,
+  "perm_sd": 0.019759347615288764,
+  "perm_max": 0.6275,
+  "p": 0.009900990099009901,
+  "n_permutations": 100,
+  "majority_class_rate": 0.625
+}

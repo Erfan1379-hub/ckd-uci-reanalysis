@@ -1,0 +1,190 @@
+\begin{table}[!ht]\centering\small
+\caption{{\bf S1 Table.} Preprocessing pipeline. Every step was fitted on the training data of each fold.}
+\begin{tabular}{p{3.2cm}p{9cm}p{1.8cm}}\toprule
+Step & Setting & Learned\\\midrule
+Winsorising & $[Q_1-3\,\mathrm{IQR},\,Q_3+3\,\mathrm{IQR}]$; 11 continuous variables only (age, bp, bgr, bu, sc, sod, pot, hemo, pcv, wc, rc) & limits\\
+Log transform & $\log(1+x)$ of bgr, bu, sc, wc, pot, sod (negative values set to 0) & none\\
+Imputation & MICE (IterativeImputer, Bayesian ridge, $\le$15 iterations, no posterior sampling, seed 42); or median; or $k$NN ($k=5$); optional missingness indicators & models\\
+Standardisation & zero mean, unit variance & mean, s.d.\\
+Selection (leakage experiment only) & 12 variables with highest mutual information (SelectKBest) & selected set\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S2 Table.} Classifier settings (scikit-learn defaults otherwise; seed 42) and the hyperparameter grid of the hold-out protocol.}
+\begin{tabular}{p{3.6cm}p{10.4cm}}\toprule
+Classifier & Settings\\\midrule
+Logistic regression & L2 penalty, $C=1$, lbfgs, max. 2,000 iterations\\
+$k$-nearest neighbours & $k=7$, uniform weights, Euclidean distance\\
+Support vector machine & RBF kernel, $C=3$, gamma = scale, Platt probabilities\\
+Random forest & 500 trees\\
+Extremely randomised trees & 500 trees; hold-out grid: trees 300/600, max. depth none/6/10, min. leaf 1/2/3 (15 of 18 combinations sampled)\\
+Gradient boosting & histogram-based, default settings\\
+Stacked ensemble & SVM + random forest + gradient boosting; logistic-regression combiner; 5-fold internal CV\\
+Envelope rule & min/max of each variable among training controls; CKD if any observed value outside\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S3 Table.} Corrected resampled $t$-tests (Nadeau--Bengio; 50 folds, $n_\mathrm{test}/n_\mathrm{train}=0.25$) of each model against logistic regression; Holm adjustment within metric. The Brier score of the envelope rule is not a calibrated probability.}
+\begin{tabular}{llrrrr}\toprule
+Model & Metric & Mean difference & $t$ & $p$ & $p$ (Holm)\\\midrule
+k-nearest neighbours & accuracy & -0.0320 & -3.00 & 0.0043 & 0.0298\\
+k-nearest neighbours & brier & +0.0198 & 3.89 & 0.0003 & 0.0021\\
+Support vector machine & accuracy & +0.0013 & 0.64 & 0.5283 & 1.0000\\
+Support vector machine & brier & -0.0020 & -2.73 & 0.0087 & 0.0436\\
+Random forest & accuracy & +0.0027 & 0.65 & 0.5166 & 1.0000\\
+Random forest & brier & -0.0012 & -0.85 & 0.4003 & 0.8005\\
+Extremely randomised trees & accuracy & +0.0035 & 0.94 & 0.3515 & 1.0000\\
+Extremely randomised trees & brier & -0.0021 & -1.85 & 0.0705 & 0.2821\\
+Gradient boosting & accuracy & -0.0012 & -0.25 & 0.8018 & 1.0000\\
+Gradient boosting & brier & -0.0006 & -0.21 & 0.8331 & 0.8331\\
+Stacked ensemble & accuracy & +0.0027 & 0.65 & 0.5166 & 1.0000\\
+Stacked ensemble & brier & -0.0031 & -1.85 & 0.0709 & 0.2821\\
+Envelope rule & accuracy & -0.0065 & -0.95 & 0.3472 & 1.0000\\
+Envelope rule & brier & +0.0082 & 3.76 & 0.0004 & 0.0027\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S4 Table.} Nested cross-validation (outer stratified 5-fold repeated 5 times; inner stratified 5-fold over seven classifiers; ties broken in favour of the simpler model). Each outer test fold has 80 patients.}
+\begin{tabular}{rlrrrr}\toprule
+Outer fold & Selected & Inner F1 & Outer accuracy & Outer F1 & Errors\\\midrule
+1 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+2 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+3 & Logistic regression & 1.000 & 0.975 & 0.980 & 2\\
+4 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+5 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+6 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+7 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+8 & Random forest & 1.000 & 0.988 & 0.990 & 1\\
+9 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+10 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+11 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+12 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+13 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+14 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+15 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+16 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+17 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+18 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+19 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+20 & Logistic regression & 1.000 & 0.988 & 0.990 & 1\\
+21 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+22 & Logistic regression & 1.000 & 0.975 & 0.980 & 2\\
+23 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+24 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 0\\
+25 & Random forest & 1.000 & 1.000 & 1.000 & 0\\
+\midrule Mean &  & 1.000 & 0.997 & 0.998 & 6\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S5 Table.} Conventional hold-out protocol (stratified 80/20 split, seed 42). Upper part: cross-validated F1 on the 320 training patients (5-fold, 3 repeats).}
+\begin{tabular}{ll}\toprule
+Item & Value\\\midrule
+Logistic regression & 0.996\\
+k-nearest neighbours & 0.966\\
+Support vector machine & 0.997\\
+Random forest & 0.999\\
+Extremely randomised trees & 1.000\\
+Gradient boosting & 0.994\\
+Stacked ensemble & 0.998\\
+\midrule Selected model & Extremely randomised trees\\
+Tuned settings & n estimators=300, min samples leaf=1, max depth=None\\
+Test accuracy (80 patients) & 1.000 (95\% CI 95.5--100\%)\\
+Test AUC / Brier & 1.000 / 0.0043\\
+Envelope rule, test accuracy & 1.000 (0 errors)\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S6 Table.} Leakage experiments (same 50 folds; 4,000 predictions). Leak A: MICE pipeline and mutual-information selection fitted on all 400 patients before cross-validation. Leak B: class-conditional median imputation on all data.}
+\begin{tabular}{lp{5.6cm}rrrr}\toprule
+Model & Variant & Accuracy (s.d.) & F1 & AUC & Errors\\\midrule
+Logistic regression & Proper (all steps inside folds) & 0.9895 (0.0096) & 0.9915 & 0.9998 & 42\\
+Logistic regression & Leak A: preprocessing and selection on all data & 0.9895 (0.0102) & 0.9915 & 0.9999 & 42\\
+Logistic regression & Leak B: class-conditional imputation on all data & 0.9940 (0.0072) & 0.9951 & 1.0000 & 24\\
+Logistic regression & Proper, label-free median imputation & 0.9970 (0.0069) & 0.9976 & 1.0000 & 12\\
+k-nearest neighbours & Proper (all steps inside folds) & 0.9902 (0.0095) & 0.9921 & 0.9975 & 39\\
+k-nearest neighbours & Leak A: preprocessing and selection on all data & 0.9905 (0.0093) & 0.9923 & 0.9963 & 38\\
+k-nearest neighbours & Leak B: class-conditional imputation on all data & 0.9775 (0.0138) & 0.9815 & 0.9958 & 90\\
+k-nearest neighbours & Proper, label-free median imputation & 0.9708 (0.0161) & 0.9759 & 0.9968 & 117\\
+Random forest & Proper (all steps inside folds) & 0.9982 (0.0051) & 0.9986 & 1.0000 & 7\\
+Random forest & Leak A: preprocessing and selection on all data & 0.9980 (0.0046) & 0.9984 & 1.0000 & 8\\
+Random forest & Leak B: class-conditional imputation on all data & 1.0000 (0.0000) & 1.0000 & 1.0000 & 0\\
+Random forest & Proper, label-free median imputation & 0.9920 (0.0090) & 0.9936 & 0.9998 & 32\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S7 Table.} Ablation (5-fold cross-validation repeated ten times).}
+\begin{tabular}{p{4.6cm}rlrrrrr}\toprule
+Variable set & $n$ & Model & Acc. & Sens. & Spec. & AUC & Errors\\\midrule
+All 24 variables & 24 & Logistic regression & 0.996 & 0.994 & 1.000 & 1.000 & 15\\
+All 24 variables & 24 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 1.000 & 1\\
+All 24 variables & 24 & Envelope rule & 0.990 & 1.000 & 0.973 & 1.000 & 41\\
+Without hypertension and diabetes & 22 & Logistic regression & 0.994 & 0.990 & 1.000 & 1.000 & 26\\
+Without hypertension and diabetes & 22 & Extremely randomised trees & 1.000 & 1.000 & 1.000 & 1.000 & 0\\
+Without hypertension and diabetes & 22 & Envelope rule & 0.990 & 1.000 & 0.973 & 1.000 & 41\\
+Without the 10 binary variables & 14 & Logistic regression & 0.987 & 0.983 & 0.993 & 1.000 & 53\\
+Without the 10 binary variables & 14 & Extremely randomised trees & 0.992 & 0.987 & 1.000 & 1.000 & 33\\
+Without the 10 binary variables & 14 & Envelope rule & 0.990 & 1.000 & 0.973 & 1.000 & 41\\
+Without anaemia-related variables (hemo, pcv, rc, ane) & 20 & Logistic regression & 0.985 & 0.975 & 1.000 & 0.999 & 62\\
+Without anaemia-related variables (hemo, pcv, rc, ane) & 20 & Extremely randomised trees & 0.994 & 0.991 & 0.998 & 1.000 & 26\\
+Without anaemia-related variables (hemo, pcv, rc, ane) & 20 & Envelope rule & 0.987 & 0.992 & 0.979 & 0.996 & 51\\
+Without kidney markers (sc, bu, sg, al) & 20 & Logistic regression & 0.982 & 0.972 & 0.999 & 0.995 & 73\\
+Without kidney markers (sc, bu, sg, al) & 20 & Extremely randomised trees & 0.995 & 0.992 & 1.000 & 0.999 & 21\\
+Without kidney markers (sc, bu, sg, al) & 20 & Envelope rule & 0.984 & 0.984 & 0.983 & 0.992 & 65\\
+Urine dipstick only (sg, al, su) & 3 & Logistic regression & 0.957 & 0.952 & 0.967 & 0.979 & 171\\
+Urine dipstick only (sg, al, su) & 3 & Extremely randomised trees & 0.970 & 0.972 & 0.967 & 0.987 & 120\\
+Urine dipstick only (sg, al, su) & 3 & Envelope rule & 0.882 & 0.812 & 1.000 & 0.906 & 470\\
+Serum creatinine only & 1 & Logistic regression & 0.825 & 0.860 & 0.767 & 0.916 & 700\\
+Serum creatinine only & 1 & Extremely randomised trees & 0.874 & 0.821 & 0.962 & 0.916 & 505\\
+Serum creatinine only & 1 & Envelope rule & 0.855 & 0.772 & 0.993 & 0.885 & 580\\
+Haemoglobin only & 1 & Logistic regression & 0.905 & 0.937 & 0.852 & 0.967 & 380\\
+Haemoglobin only & 1 & Extremely randomised trees & 0.892 & 0.914 & 0.856 & 0.941 & 431\\
+Haemoglobin only & 1 & Envelope rule & 0.823 & 0.716 & 1.000 & 0.858 & 710\\
+Serum creatinine, haemoglobin, specific gravity & 3 & Logistic regression & 0.966 & 0.961 & 0.973 & 0.995 & 137\\
+Serum creatinine, haemoglobin, specific gravity & 3 & Extremely randomised trees & 0.977 & 0.976 & 0.977 & 0.989 & 94\\
+Serum creatinine, haemoglobin, specific gravity & 3 & Envelope rule & 0.985 & 0.980 & 0.993 & 0.990 & 60\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S8 Table.} Imputation methods with and without missingness indicators (5-fold cross-validation repeated ten times). All AUCs were 1.000.}
+\begin{tabular}{lllrrrr}\toprule
+Imputer & Indicators & Model & Accuracy & F1 (s.d.) & Brier & Errors\\\midrule
+MEDIAN & no & Logistic regression & 0.9978 & 0.9982 (0.0044) & 0.0056 & 9\\
+MEDIAN & no & Extremely randomised trees & 0.9990 & 0.9992 (0.0028) & 0.0042 & 4\\
+MEDIAN & yes & Logistic regression & 0.9998 & 0.9998 (0.0014) & 0.0021 & 1\\
+MEDIAN & yes & Extremely randomised trees & 0.9978 & 0.9982 (0.0072) & 0.0054 & 9\\
+$k$NN & no & Logistic regression & 0.9970 & 0.9976 (0.0044) & 0.0043 & 12\\
+$k$NN & no & Extremely randomised trees & 0.9968 & 0.9974 (0.0053) & 0.0054 & 13\\
+$k$NN & yes & Logistic regression & 1.0000 & 1.0000 (0.0000) & 0.0017 & 0\\
+$k$NN & yes & Extremely randomised trees & 0.9980 & 0.9984 (0.0071) & 0.0055 & 8\\
+MICE & no & Logistic regression & 0.9962 & 0.9970 (0.0059) & 0.0044 & 15\\
+MICE & no & Extremely randomised trees & 0.9998 & 0.9998 (0.0014) & 0.0023 & 1\\
+MICE & yes & Logistic regression & 1.0000 & 1.0000 (0.0000) & 0.0015 & 0\\
+MICE & yes & Extremely randomised trees & 0.9988 & 0.9990 (0.0067) & 0.0040 & 5\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S9 Table.} Clustering of all 400 patients after preprocessing fitted on the training set of the hold-out split (labels not used for fitting). ARI, adjusted Rand index.}
+\begin{tabular}{lrrrrr}\toprule
+Method & Clusters & Noise & Silhouette & ARI & Purity\\\midrule
+k-means (k=2) & 2 & 0 & 0.270 & 0.503 & 0.855\\
+k-medoids (k=2) & 2 & 0 & 0.276 & 0.261 & 0.757\\
+Ward hierarchical (k=2) & 2 & 0 & 0.198 & 1.000 & 1.000\\
+DBSCAN (eps=5.4) & 1 & 24 & --- & -0.034 & 0.565\\
+\bottomrule\end{tabular}\end{table}
+
+\begin{table}[!ht]\centering\small
+\caption{{\bf S10 Table.} Number of values outside $Q_1-1.5\,\mathrm{IQR}$ and $Q_3+1.5\,\mathrm{IQR}$ for the 11 continuous variables (all 400 records, after the plausibility rule). These were winsorised at 3 IQR inside the pipeline, not removed.}
+\begin{tabular}{lr}\toprule
+Variable & Values\\\midrule
+Serum creatinine & 51\\
+Blood urea & 38\\
+Blood pressure & 36\\
+Blood glucose & 34\\
+Sodium & 15\\
+Age & 10\\
+White cell count & 10\\
+Potassium & 2\\
+Haemoglobin & 1\\
+Packed cell volume & 1\\
+Red cell count & 1\\
+\bottomrule\end{tabular}\end{table}

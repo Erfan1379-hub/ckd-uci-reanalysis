@@ -1,0 +1,1351 @@
+fold,accuracy,precision,recall,specificity,f1,auc,brier,errors,model,set
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.002450061446836069,0,Logistic regression,All 24 variables
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.001763879963454472,0,Logistic regression,All 24 variables
+2,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.012815665093794098,2,Logistic regression,All 24 variables
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.002693513804462669,0,Logistic regression,All 24 variables
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.0033564836656827155,0,Logistic regression,All 24 variables
+5,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007247741047358432,1,Logistic regression,All 24 variables
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.005001860793766798,0,Logistic regression,All 24 variables
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.0022294408774169933,0,Logistic regression,All 24 variables
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0012595499626406644,0,Logistic regression,All 24 variables
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.00368238432644157,0,Logistic regression,All 24 variables
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0027646835229958445,0,Logistic regression,All 24 variables
+11,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00897631946170141,1,Logistic regression,All 24 variables
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0007735832714769115,0,Logistic regression,All 24 variables
+13,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007667225997425678,1,Logistic regression,All 24 variables
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.0036312485844999867,0,Logistic regression,All 24 variables
+15,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007680468806969031,1,Logistic regression,All 24 variables
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0007441872045917985,0,Logistic regression,All 24 variables
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.003341011551349561,0,Logistic regression,All 24 variables
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.003808297632634744,0,Logistic regression,All 24 variables
+19,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008103639319380376,1,Logistic regression,All 24 variables
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.002529206796513291,0,Logistic regression,All 24 variables
+21,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011529240432229571,2,Logistic regression,All 24 variables
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.003957007427349685,0,Logistic regression,All 24 variables
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.0028643422384212213,0,Logistic regression,All 24 variables
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0018425762868082168,0,Logistic regression,All 24 variables
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.006396418825753501,0,Logistic regression,All 24 variables
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0034847794439253474,0,Logistic regression,All 24 variables
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0010631670770870415,0,Logistic regression,All 24 variables
+28,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006410550468594839,1,Logistic regression,All 24 variables
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0012625507365626248,0,Logistic regression,All 24 variables
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0010996229973057946,0,Logistic regression,All 24 variables
+31,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007705628205277896,1,Logistic regression,All 24 variables
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0032604963974759106,0,Logistic regression,All 24 variables
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.008282506533874374,0,Logistic regression,All 24 variables
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.002762673955139954,0,Logistic regression,All 24 variables
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.004001773691850082,0,Logistic regression,All 24 variables
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.004203535436511589,0,Logistic regression,All 24 variables
+37,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006483917946185594,1,Logistic regression,All 24 variables
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0014097191209242394,0,Logistic regression,All 24 variables
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.00493587946540461,0,Logistic regression,All 24 variables
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.004674583613322836,0,Logistic regression,All 24 variables
+41,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008763696720833505,1,Logistic regression,All 24 variables
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.003333833934253366,0,Logistic regression,All 24 variables
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.0021731953128772343,0,Logistic regression,All 24 variables
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.003706638642191263,0,Logistic regression,All 24 variables
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0029521424330583345,0,Logistic regression,All 24 variables
+46,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01257971583904359,2,Logistic regression,All 24 variables
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0020921364916953074,0,Logistic regression,All 24 variables
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.004240051638359356,0,Logistic regression,All 24 variables
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0018469077878063614,0,Logistic regression,All 24 variables
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.0018539000000000003,0,Extremely randomised trees,All 24 variables
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0013665000000000003,0,Extremely randomised trees,All 24 variables
+2,1.0,1.0,1.0,1.0,1.0,1.0,0.005793400000000001,0,Extremely randomised trees,All 24 variables
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.002158899999999999,0,Extremely randomised trees,All 24 variables
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.001349,0,Extremely randomised trees,All 24 variables
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.00462505,0,Extremely randomised trees,All 24 variables
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0027764499999999998,0,Extremely randomised trees,All 24 variables
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.002228300000000001,0,Extremely randomised trees,All 24 variables
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0007150500000000003,0,Extremely randomised trees,All 24 variables
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.0017523999999999999,0,Extremely randomised trees,All 24 variables
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0011963499999999999,0,Extremely randomised trees,All 24 variables
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.0023388000000000007,0,Extremely randomised trees,All 24 variables
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0005697000000000002,0,Extremely randomised trees,All 24 variables
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.0028569,0,Extremely randomised trees,All 24 variables
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.0019303500000000008,0,Extremely randomised trees,All 24 variables
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.003081650000000001,0,Extremely randomised trees,All 24 variables
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.00084335,0,Extremely randomised trees,All 24 variables
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.0023235000000000005,0,Extremely randomised trees,All 24 variables
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.0012585000000000003,0,Extremely randomised trees,All 24 variables
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.0034732,0,Extremely randomised trees,All 24 variables
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.004594349999999999,0,Extremely randomised trees,All 24 variables
+21,1.0,1.0,1.0,1.0,1.0,1.0,0.0034697,0,Extremely randomised trees,All 24 variables
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0018439500000000004,0,Extremely randomised trees,All 24 variables
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.0006950499999999999,0,Extremely randomised trees,All 24 variables
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0010523000000000004,0,Extremely randomised trees,All 24 variables
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.0024563000000000007,0,Extremely randomised trees,All 24 variables
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0023169500000000008,0,Extremely randomised trees,All 24 variables
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.00110135,0,Extremely randomised trees,All 24 variables
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.0033973500000000004,0,Extremely randomised trees,All 24 variables
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0006665000000000002,0,Extremely randomised trees,All 24 variables
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0011665500000000004,0,Extremely randomised trees,All 24 variables
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.0026548500000000003,0,Extremely randomised trees,All 24 variables
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0018144000000000003,0,Extremely randomised trees,All 24 variables
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.00375365,0,Extremely randomised trees,All 24 variables
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.0039587,0,Extremely randomised trees,All 24 variables
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0017501000000000003,0,Extremely randomised trees,All 24 variables
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0015812,0,Extremely randomised trees,All 24 variables
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.0036656999999999996,0,Extremely randomised trees,All 24 variables
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0006780500000000004,0,Extremely randomised trees,All 24 variables
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.002320300000000001,0,Extremely randomised trees,All 24 variables
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.0019821,0,Extremely randomised trees,All 24 variables
+41,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006012300000000001,1,Extremely randomised trees,All 24 variables
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0015333,0,Extremely randomised trees,All 24 variables
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.00314605,0,Extremely randomised trees,All 24 variables
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.003585400000000001,0,Extremely randomised trees,All 24 variables
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.00147915,0,Extremely randomised trees,All 24 variables
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.005322499999999999,0,Extremely randomised trees,All 24 variables
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0004464499999999998,0,Extremely randomised trees,All 24 variables
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.00269155,0,Extremely randomised trees,All 24 variables
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.00126965,0,Extremely randomised trees,All 24 variables
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.00840986440481524,0,Envelope rule,All 24 variables
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.00889628338704316,0,Envelope rule,All 24 variables
+2,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.0185478090819148,2,Envelope rule,All 24 variables
+3,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.012351768173511581,1,Envelope rule,All 24 variables
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.011095922310260409,0,Envelope rule,All 24 variables
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.00909135074226331,0,Envelope rule,All 24 variables
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.010761304663390807,0,Envelope rule,All 24 variables
+7,0.95,0.9259259259259259,1.0,0.8666666666666667,0.9615384615384616,1.0,0.024126765415417167,4,Envelope rule,All 24 variables
+8,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.011489669744132814,1,Envelope rule,All 24 variables
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.010804162494605186,0,Envelope rule,All 24 variables
+10,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.015073184340183999,1,Envelope rule,All 24 variables
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.01027750346991253,0,Envelope rule,All 24 variables
+12,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.011960283839125736,1,Envelope rule,All 24 variables
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.010312073306444108,0,Envelope rule,All 24 variables
+14,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.011664989383444875,1,Envelope rule,All 24 variables
+15,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.02090406723358689,3,Envelope rule,All 24 variables
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.007494783663718913,0,Envelope rule,All 24 variables
+17,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01305377033245585,1,Envelope rule,All 24 variables
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.008781575847601548,0,Envelope rule,All 24 variables
+19,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016125368555669862,1,Envelope rule,All 24 variables
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.01174777749147598,0,Envelope rule,All 24 variables
+21,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013903579550663648,1,Envelope rule,All 24 variables
+22,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.015137357715773792,2,Envelope rule,All 24 variables
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.00931134606814444,0,Envelope rule,All 24 variables
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.009138339787684874,0,Envelope rule,All 24 variables
+25,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.014774232539943272,1,Envelope rule,All 24 variables
+26,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01392151365123968,1,Envelope rule,All 24 variables
+27,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.011659174034709627,1,Envelope rule,All 24 variables
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.010833880439479209,0,Envelope rule,All 24 variables
+29,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.015102024303307338,2,Envelope rule,All 24 variables
+30,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.012337691809008417,1,Envelope rule,All 24 variables
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.007617714454892885,0,Envelope rule,All 24 variables
+32,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01305611379171393,1,Envelope rule,All 24 variables
+33,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.02148412422194075,2,Envelope rule,All 24 variables
+34,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.011791628640417126,1,Envelope rule,All 24 variables
+35,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.011532774797397238,1,Envelope rule,All 24 variables
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.012702065119967567,0,Envelope rule,All 24 variables
+37,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013796557921022154,1,Envelope rule,All 24 variables
+38,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.019388988980977375,3,Envelope rule,All 24 variables
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.008751735860387385,0,Envelope rule,All 24 variables
+40,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013388060300728788,1,Envelope rule,All 24 variables
+41,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013113560781256825,1,Envelope rule,All 24 variables
+42,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.012246687708338507,1,Envelope rule,All 24 variables
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.008087954582620282,0,Envelope rule,All 24 variables
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.012376377026407401,0,Envelope rule,All 24 variables
+45,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.01813279857512001,2,Envelope rule,All 24 variables
+46,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013471199542830936,1,Envelope rule,All 24 variables
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.00936222268798205,0,Envelope rule,All 24 variables
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.009925071594900182,0,Envelope rule,All 24 variables
+49,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01177510693696151,1,Envelope rule,All 24 variables
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.0020457234626362055,0,Logistic regression,Without hypertension and diabetes
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0011695981325490958,0,Logistic regression,Without hypertension and diabetes
+2,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.014625635384708319,3,Logistic regression,Without hypertension and diabetes
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.0062325673147847595,0,Logistic regression,Without hypertension and diabetes
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.004975424197886916,0,Logistic regression,Without hypertension and diabetes
+5,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005263824524011282,1,Logistic regression,Without hypertension and diabetes
+6,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00877091611654127,1,Logistic regression,Without hypertension and diabetes
+7,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008351497649572067,1,Logistic regression,Without hypertension and diabetes
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.003754591915866892,0,Logistic regression,Without hypertension and diabetes
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.004002584441277304,0,Logistic regression,Without hypertension and diabetes
+10,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006831261818802397,1,Logistic regression,Without hypertension and diabetes
+11,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0072943601808989015,1,Logistic regression,Without hypertension and diabetes
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0011391070135577427,0,Logistic regression,Without hypertension and diabetes
+13,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.02008038488696771,3,Logistic regression,Without hypertension and diabetes
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.0027271741231583665,0,Logistic regression,Without hypertension and diabetes
+15,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011657820469263374,2,Logistic regression,Without hypertension and diabetes
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0014804441529726385,0,Logistic regression,Without hypertension and diabetes
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.002559852956135574,0,Logistic regression,Without hypertension and diabetes
+18,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.011109728388236869,1,Logistic regression,Without hypertension and diabetes
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.007808645066015857,0,Logistic regression,Without hypertension and diabetes
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.004119441508255263,0,Logistic regression,Without hypertension and diabetes
+21,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.010456850916355896,2,Logistic regression,Without hypertension and diabetes
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.002736628568587675,0,Logistic regression,Without hypertension and diabetes
+23,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.013284907572307667,2,Logistic regression,Without hypertension and diabetes
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.002021408963341865,0,Logistic regression,Without hypertension and diabetes
+25,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.014824630090606439,1,Logistic regression,Without hypertension and diabetes
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.003435760960299092,0,Logistic regression,Without hypertension and diabetes
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0022733568595921932,0,Logistic regression,Without hypertension and diabetes
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.006661140179854539,0,Logistic regression,Without hypertension and diabetes
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.001084245542756302,0,Logistic regression,Without hypertension and diabetes
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0015246548239467434,0,Logistic regression,Without hypertension and diabetes
+31,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006078689584216139,1,Logistic regression,Without hypertension and diabetes
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0057314701052586375,0,Logistic regression,Without hypertension and diabetes
+33,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.013133459432902273,1,Logistic regression,Without hypertension and diabetes
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.00421117052020339,0,Logistic regression,Without hypertension and diabetes
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.005623140285920525,0,Logistic regression,Without hypertension and diabetes
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.003086896219515832,0,Logistic regression,Without hypertension and diabetes
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.005873197847781125,0,Logistic regression,Without hypertension and diabetes
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0020572983871885654,0,Logistic regression,Without hypertension and diabetes
+39,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011804182961892925,1,Logistic regression,Without hypertension and diabetes
+40,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.012607273301936426,1,Logistic regression,Without hypertension and diabetes
+41,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0060425648926227486,1,Logistic regression,Without hypertension and diabetes
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.003467696535191712,0,Logistic regression,Without hypertension and diabetes
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.004923124577003656,0,Logistic regression,Without hypertension and diabetes
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.00273395486161668,0,Logistic regression,Without hypertension and diabetes
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0019506617294759291,0,Logistic regression,Without hypertension and diabetes
+46,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008948899872069104,1,Logistic regression,Without hypertension and diabetes
+47,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010848988229883729,1,Logistic regression,Without hypertension and diabetes
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.0056883523427858195,0,Logistic regression,Without hypertension and diabetes
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0020702226715174853,0,Logistic regression,Without hypertension and diabetes
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.00126085,0,Extremely randomised trees,Without hypertension and diabetes
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.0007607000000000002,0,Extremely randomised trees,Without hypertension and diabetes
+2,1.0,1.0,1.0,1.0,1.0,1.0,0.004364250000000001,0,Extremely randomised trees,Without hypertension and diabetes
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.00433995,0,Extremely randomised trees,Without hypertension and diabetes
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.0035298000000000005,0,Extremely randomised trees,Without hypertension and diabetes
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.002765300000000001,0,Extremely randomised trees,Without hypertension and diabetes
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0028494000000000006,0,Extremely randomised trees,Without hypertension and diabetes
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.004456049999999999,0,Extremely randomised trees,Without hypertension and diabetes
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.002282250000000001,0,Extremely randomised trees,Without hypertension and diabetes
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.0024999999999999996,0,Extremely randomised trees,Without hypertension and diabetes
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.00216775,0,Extremely randomised trees,Without hypertension and diabetes
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.00222895,0,Extremely randomised trees,Without hypertension and diabetes
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.00040655000000000004,0,Extremely randomised trees,Without hypertension and diabetes
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.006839500000000001,0,Extremely randomised trees,Without hypertension and diabetes
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.0028687000000000005,0,Extremely randomised trees,Without hypertension and diabetes
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.0033989,0,Extremely randomised trees,Without hypertension and diabetes
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0010909,0,Extremely randomised trees,Without hypertension and diabetes
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.00287885,0,Extremely randomised trees,Without hypertension and diabetes
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.00435175,0,Extremely randomised trees,Without hypertension and diabetes
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.00331915,0,Extremely randomised trees,Without hypertension and diabetes
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.0055151,0,Extremely randomised trees,Without hypertension and diabetes
+21,1.0,1.0,1.0,1.0,1.0,1.0,0.0036792500000000007,0,Extremely randomised trees,Without hypertension and diabetes
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0022270500000000004,0,Extremely randomised trees,Without hypertension and diabetes
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.003945500000000001,0,Extremely randomised trees,Without hypertension and diabetes
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0011253500000000002,0,Extremely randomised trees,Without hypertension and diabetes
+25,1.0,1.0,1.0,1.0,1.0,1.0,0.0042516,0,Extremely randomised trees,Without hypertension and diabetes
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0022176500000000007,0,Extremely randomised trees,Without hypertension and diabetes
+27,1.0,1.0,1.0,1.0,1.0,0.9999999999999999,0.0017276000000000004,0,Extremely randomised trees,Without hypertension and diabetes
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.004047,0,Extremely randomised trees,Without hypertension and diabetes
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.00131345,0,Extremely randomised trees,Without hypertension and diabetes
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.00177965,0,Extremely randomised trees,Without hypertension and diabetes
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.0016898500000000003,0,Extremely randomised trees,Without hypertension and diabetes
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.002930650000000001,0,Extremely randomised trees,Without hypertension and diabetes
+33,1.0,1.0,1.0,1.0,1.0,1.0,0.004889900000000001,0,Extremely randomised trees,Without hypertension and diabetes
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.0049379,0,Extremely randomised trees,Without hypertension and diabetes
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0025525,0,Extremely randomised trees,Without hypertension and diabetes
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0015587000000000003,0,Extremely randomised trees,Without hypertension and diabetes
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.00300905,0,Extremely randomised trees,Without hypertension and diabetes
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0008752500000000004,0,Extremely randomised trees,Without hypertension and diabetes
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.0045169500000000005,0,Extremely randomised trees,Without hypertension and diabetes
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.004328,0,Extremely randomised trees,Without hypertension and diabetes
+41,1.0,1.0,1.0,1.0,1.0,1.0,0.004052100000000001,0,Extremely randomised trees,Without hypertension and diabetes
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0018637000000000005,0,Extremely randomised trees,Without hypertension and diabetes
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.0044351,0,Extremely randomised trees,Without hypertension and diabetes
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.002002,0,Extremely randomised trees,Without hypertension and diabetes
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0014810500000000005,0,Extremely randomised trees,Without hypertension and diabetes
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.0043714,0,Extremely randomised trees,Without hypertension and diabetes
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.00277195,0,Extremely randomised trees,Without hypertension and diabetes
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.004227450000000001,0,Extremely randomised trees,Without hypertension and diabetes
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0013726500000000004,0,Extremely randomised trees,Without hypertension and diabetes
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.009993547025695432,0,Envelope rule,Without hypertension and diabetes
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.010483439420102585,0,Envelope rule,Without hypertension and diabetes
+2,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.021948170238290588,2,Envelope rule,Without hypertension and diabetes
+3,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01592866156094506,1,Envelope rule,Without hypertension and diabetes
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.01394261797383842,0,Envelope rule,Without hypertension and diabetes
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.010709320596128682,0,Envelope rule,Without hypertension and diabetes
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.013562287635967746,0,Envelope rule,Without hypertension and diabetes
+7,0.95,0.9259259259259259,1.0,0.8666666666666667,0.9615384615384616,1.0,0.02797455697946557,4,Envelope rule,Without hypertension and diabetes
+8,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.014522812882474062,1,Envelope rule,Without hypertension and diabetes
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.012486640588721214,0,Envelope rule,Without hypertension and diabetes
+10,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01784960301516187,1,Envelope rule,Without hypertension and diabetes
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.01235729310412953,0,Envelope rule,Without hypertension and diabetes
+12,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013734029992141628,1,Envelope rule,Without hypertension and diabetes
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.014542245327854253,0,Envelope rule,Without hypertension and diabetes
+14,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013767723976099943,1,Envelope rule,Without hypertension and diabetes
+15,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.0232379266319375,3,Envelope rule,Without hypertension and diabetes
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.010178051483842895,0,Envelope rule,Without hypertension and diabetes
+17,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.015074107793355596,1,Envelope rule,Without hypertension and diabetes
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.012576251024099904,0,Envelope rule,Without hypertension and diabetes
+19,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.018305959988749308,1,Envelope rule,Without hypertension and diabetes
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.013042370011619783,0,Envelope rule,Without hypertension and diabetes
+21,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.015851911995044272,1,Envelope rule,Without hypertension and diabetes
+22,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.01845069187169157,2,Envelope rule,Without hypertension and diabetes
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.013855214693704865,0,Envelope rule,Without hypertension and diabetes
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.011051920028355955,0,Envelope rule,Without hypertension and diabetes
+25,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.018608569453796568,1,Envelope rule,Without hypertension and diabetes
+26,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01640935589619204,1,Envelope rule,Without hypertension and diabetes
+27,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01328069022644979,1,Envelope rule,Without hypertension and diabetes
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.013584733317803127,0,Envelope rule,Without hypertension and diabetes
+29,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.017371002177738723,2,Envelope rule,Without hypertension and diabetes
+30,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.014073553234868127,1,Envelope rule,Without hypertension and diabetes
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.009712068351835537,0,Envelope rule,Without hypertension and diabetes
+32,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016798051921547548,1,Envelope rule,Without hypertension and diabetes
+33,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.025141616102747278,2,Envelope rule,Without hypertension and diabetes
+34,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013570667578068723,1,Envelope rule,Without hypertension and diabetes
+35,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.012861227958965282,1,Envelope rule,Without hypertension and diabetes
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.014616520739520406,0,Envelope rule,Without hypertension and diabetes
+37,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016600646064975848,1,Envelope rule,Without hypertension and diabetes
+38,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.02234061747081418,3,Envelope rule,Without hypertension and diabetes
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.012717536245424299,0,Envelope rule,Without hypertension and diabetes
+40,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.017637315690673092,1,Envelope rule,Without hypertension and diabetes
+41,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.015143564157750866,1,Envelope rule,Without hypertension and diabetes
+42,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.015087213267897198,1,Envelope rule,Without hypertension and diabetes
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.010964589401360905,0,Envelope rule,Without hypertension and diabetes
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.013379915819509303,0,Envelope rule,Without hypertension and diabetes
+45,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.019796221049763113,2,Envelope rule,Without hypertension and diabetes
+46,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01567830943938126,1,Envelope rule,Without hypertension and diabetes
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.013805430818520864,0,Envelope rule,Without hypertension and diabetes
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.012756102024454189,0,Envelope rule,Without hypertension and diabetes
+49,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013643618905354463,1,Envelope rule,Without hypertension and diabetes
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.005656762944604735,0,Logistic regression,Without the 10 binary variables
+1,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00926842463987132,1,Logistic regression,Without the 10 binary variables
+2,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.021449944220564263,3,Logistic regression,Without the 10 binary variables
+3,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.010158238461025282,1,Logistic regression,Without the 10 binary variables
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.0021506047015922803,0,Logistic regression,Without the 10 binary variables
+5,0.975,1.0,0.96,1.0,0.9795918367346939,0.9986666666666667,0.015641683639853153,2,Logistic regression,Without the 10 binary variables
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.0053726658082867374,0,Logistic regression,Without the 10 binary variables
+7,0.975,1.0,0.96,1.0,0.9795918367346939,0.9986666666666667,0.01684776062553388,2,Logistic regression,Without the 10 binary variables
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0029334001078920743,0,Logistic regression,Without the 10 binary variables
+9,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333333,0.012321881479305569,2,Logistic regression,Without the 10 binary variables
+10,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.008049224603898205,1,Logistic regression,Without the 10 binary variables
+11,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.014208763717545975,1,Logistic regression,Without the 10 binary variables
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0015177623866862262,0,Logistic regression,Without the 10 binary variables
+13,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.019396466396247074,2,Logistic regression,Without the 10 binary variables
+14,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010913268271427114,1,Logistic regression,Without the 10 binary variables
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.0075393725298011,0,Logistic regression,Without the 10 binary variables
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.002636108107883417,0,Logistic regression,Without the 10 binary variables
+17,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.0157082812312482,2,Logistic regression,Without the 10 binary variables
+18,0.975,0.98,0.98,0.9666666666666667,0.98,0.9986666666666667,0.014132751899854388,2,Logistic regression,Without the 10 binary variables
+19,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.01403749403029093,1,Logistic regression,Without the 10 binary variables
+20,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333333,0.012290853047261435,2,Logistic regression,Without the 10 binary variables
+21,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011189036238945944,1,Logistic regression,Without the 10 binary variables
+22,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007023267324042323,1,Logistic regression,Without the 10 binary variables
+23,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.010133973393682258,1,Logistic regression,Without the 10 binary variables
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.008225676105620177,0,Logistic regression,Without the 10 binary variables
+25,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9986666666666667,0.01862443520760157,3,Logistic regression,Without the 10 binary variables
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0061040144888513895,0,Logistic regression,Without the 10 binary variables
+27,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.010698793276051674,2,Logistic regression,Without the 10 binary variables
+28,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.011444964645700996,1,Logistic regression,Without the 10 binary variables
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0037369002014068673,0,Logistic regression,Without the 10 binary variables
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.004425475332351379,0,Logistic regression,Without the 10 binary variables
+31,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.01144225859382803,1,Logistic regression,Without the 10 binary variables
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.004358065804840091,0,Logistic regression,Without the 10 binary variables
+33,0.975,0.98,0.98,0.9666666666666667,0.98,0.9986666666666667,0.016521494220317227,2,Logistic regression,Without the 10 binary variables
+34,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.014903200532425696,2,Logistic regression,Without the 10 binary variables
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.007341444217159957,0,Logistic regression,Without the 10 binary variables
+36,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.005537781201926914,1,Logistic regression,Without the 10 binary variables
+37,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009636127682513363,1,Logistic regression,Without the 10 binary variables
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.007329934238689072,0,Logistic regression,Without the 10 binary variables
+39,0.95,1.0,0.92,1.0,0.9583333333333334,0.9993333333333333,0.02460903832374378,4,Logistic regression,Without the 10 binary variables
+40,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.010677720685542274,1,Logistic regression,Without the 10 binary variables
+41,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.019600721121315213,3,Logistic regression,Without the 10 binary variables
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.004088332816621465,0,Logistic regression,Without the 10 binary variables
+43,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.010546372791157058,1,Logistic regression,Without the 10 binary variables
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.004198772055593374,0,Logistic regression,Without the 10 binary variables
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.00306084218344255,0,Logistic regression,Without the 10 binary variables
+46,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.014470826689696103,1,Logistic regression,Without the 10 binary variables
+47,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008774334414288069,1,Logistic regression,Without the 10 binary variables
+48,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9986666666666667,0.016671050277302354,3,Logistic regression,Without the 10 binary variables
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.00781398845527207,0,Logistic regression,Without the 10 binary variables
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.0051747,0,Extremely randomised trees,Without the 10 binary variables
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.00515415,0,Extremely randomised trees,Without the 10 binary variables
+2,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.018267349999999998,3,Extremely randomised trees,Without the 10 binary variables
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.00760335,0,Extremely randomised trees,Without the 10 binary variables
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.004765650000000001,0,Extremely randomised trees,Without the 10 binary variables
+5,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.015598250000000003,2,Extremely randomised trees,Without the 10 binary variables
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.004683000000000001,0,Extremely randomised trees,Without the 10 binary variables
+7,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0093898,1,Extremely randomised trees,Without the 10 binary variables
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.003608600000000001,0,Extremely randomised trees,Without the 10 binary variables
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.00562995,0,Extremely randomised trees,Without the 10 binary variables
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.0036195500000000005,0,Extremely randomised trees,Without the 10 binary variables
+11,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0100517,1,Extremely randomised trees,Without the 10 binary variables
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.00125105,0,Extremely randomised trees,Without the 10 binary variables
+13,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.0146263,2,Extremely randomised trees,Without the 10 binary variables
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.007655600000000001,0,Extremely randomised trees,Without the 10 binary variables
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.0053721,0,Extremely randomised trees,Without the 10 binary variables
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.00354685,0,Extremely randomised trees,Without the 10 binary variables
+17,0.975,1.0,0.96,1.0,0.9795918367346939,0.9999999999999999,0.01185705,2,Extremely randomised trees,Without the 10 binary variables
+18,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00782275,1,Extremely randomised trees,Without the 10 binary variables
+19,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009990700000000002,1,Extremely randomised trees,Without the 10 binary variables
+20,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0087105,1,Extremely randomised trees,Without the 10 binary variables
+21,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010517300000000004,1,Extremely randomised trees,Without the 10 binary variables
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.007126650000000001,0,Extremely randomised trees,Without the 10 binary variables
+23,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00717425,1,Extremely randomised trees,Without the 10 binary variables
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.004625300000000001,0,Extremely randomised trees,Without the 10 binary variables
+25,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0094377,1,Extremely randomised trees,Without the 10 binary variables
+26,1.0,1.0,1.0,1.0,1.0,1.0,0.0049374,0,Extremely randomised trees,Without the 10 binary variables
+27,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009227599999999999,1,Extremely randomised trees,Without the 10 binary variables
+28,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010860699999999997,1,Extremely randomised trees,Without the 10 binary variables
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0034617000000000007,0,Extremely randomised trees,Without the 10 binary variables
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.003513650000000001,0,Extremely randomised trees,Without the 10 binary variables
+31,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008805400000000001,1,Extremely randomised trees,Without the 10 binary variables
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.00501515,0,Extremely randomised trees,Without the 10 binary variables
+33,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009841700000000004,1,Extremely randomised trees,Without the 10 binary variables
+34,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011215949999999999,2,Extremely randomised trees,Without the 10 binary variables
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.006817150000000003,0,Extremely randomised trees,Without the 10 binary variables
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.0030531000000000004,0,Extremely randomised trees,Without the 10 binary variables
+37,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010331950000000003,1,Extremely randomised trees,Without the 10 binary variables
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.004833050000000001,0,Extremely randomised trees,Without the 10 binary variables
+39,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.013754450000000001,2,Extremely randomised trees,Without the 10 binary variables
+40,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007934849999999999,1,Extremely randomised trees,Without the 10 binary variables
+41,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.020273199999999998,3,Extremely randomised trees,Without the 10 binary variables
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0034553,0,Extremely randomised trees,Without the 10 binary variables
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.0060310500000000005,0,Extremely randomised trees,Without the 10 binary variables
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.00485235,0,Extremely randomised trees,Without the 10 binary variables
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0024314500000000004,0,Extremely randomised trees,Without the 10 binary variables
+46,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.012956100000000003,1,Extremely randomised trees,Without the 10 binary variables
+47,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005179050000000002,1,Extremely randomised trees,Without the 10 binary variables
+48,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0122815,1,Extremely randomised trees,Without the 10 binary variables
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.005482650000000001,0,Extremely randomised trees,Without the 10 binary variables
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.015351964316959172,0,Envelope rule,Without the 10 binary variables
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.01677042113824852,0,Envelope rule,Without the 10 binary variables
+2,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.027087890298180872,2,Envelope rule,Without the 10 binary variables
+3,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.019850531422078987,1,Envelope rule,Without the 10 binary variables
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.01685417564435831,0,Envelope rule,Without the 10 binary variables
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.016781921343161196,0,Envelope rule,Without the 10 binary variables
+6,1.0,1.0,1.0,1.0,1.0,1.0,0.016668680527041006,0,Envelope rule,Without the 10 binary variables
+7,0.95,0.9259259259259259,1.0,0.8666666666666667,0.9615384615384616,1.0,0.03287519287944895,4,Envelope rule,Without the 10 binary variables
+8,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.018207636498063545,1,Envelope rule,Without the 10 binary variables
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.01827373097462922,0,Envelope rule,Without the 10 binary variables
+10,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.02053645900995605,1,Envelope rule,Without the 10 binary variables
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.016961730454095533,0,Envelope rule,Without the 10 binary variables
+12,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.018155235026788417,1,Envelope rule,Without the 10 binary variables
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.019242473470048007,0,Envelope rule,Without the 10 binary variables
+14,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.02080221445777768,1,Envelope rule,Without the 10 binary variables
+15,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.02792628910320929,3,Envelope rule,Without the 10 binary variables
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.013930694619629539,0,Envelope rule,Without the 10 binary variables
+17,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.022209079812763464,1,Envelope rule,Without the 10 binary variables
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.015163331692030014,0,Envelope rule,Without the 10 binary variables
+19,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.023843770639684007,1,Envelope rule,Without the 10 binary variables
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.017713751189365783,0,Envelope rule,Without the 10 binary variables
+21,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.020271653729209135,1,Envelope rule,Without the 10 binary variables
+22,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.0238937848986385,2,Envelope rule,Without the 10 binary variables
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.016880441692622594,0,Envelope rule,Without the 10 binary variables
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.017161479287987697,0,Envelope rule,Without the 10 binary variables
+25,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.022155493854701884,1,Envelope rule,Without the 10 binary variables
+26,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.020678969045854735,1,Envelope rule,Without the 10 binary variables
+27,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.017372022287991586,1,Envelope rule,Without the 10 binary variables
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.01976678349683725,0,Envelope rule,Without the 10 binary variables
+29,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.022695748319118185,2,Envelope rule,Without the 10 binary variables
+30,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.019032114440111454,1,Envelope rule,Without the 10 binary variables
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.014585446888614456,0,Envelope rule,Without the 10 binary variables
+32,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.02143541791421681,1,Envelope rule,Without the 10 binary variables
+33,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.029412536697409362,2,Envelope rule,Without the 10 binary variables
+34,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.018532809202679378,1,Envelope rule,Without the 10 binary variables
+35,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.017119475011534147,1,Envelope rule,Without the 10 binary variables
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.017638746207478514,0,Envelope rule,Without the 10 binary variables
+37,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.023205893838552025,1,Envelope rule,Without the 10 binary variables
+38,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.027200936083178966,3,Envelope rule,Without the 10 binary variables
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.017418385953397682,0,Envelope rule,Without the 10 binary variables
+40,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.020608483608582938,1,Envelope rule,Without the 10 binary variables
+41,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.023163234827256723,1,Envelope rule,Without the 10 binary variables
+42,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.017753761645410485,1,Envelope rule,Without the 10 binary variables
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.016482741691506417,0,Envelope rule,Without the 10 binary variables
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.017828045142127956,0,Envelope rule,Without the 10 binary variables
+45,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.022976402462971137,2,Envelope rule,Without the 10 binary variables
+46,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.021042491336375237,1,Envelope rule,Without the 10 binary variables
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.018393439400587713,0,Envelope rule,Without the 10 binary variables
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.017767054959404015,0,Envelope rule,Without the 10 binary variables
+49,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01921685294054538,1,Envelope rule,Without the 10 binary variables
+0,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.012663550889020622,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+1,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01573999565512373,2,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+2,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007648727005351907,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+3,0.9875,1.0,0.98,1.0,0.98989898989899,0.9973333333333334,0.011727864177328406,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+4,0.975,1.0,0.96,1.0,0.9795918367346939,0.998,0.016998827361923017,2,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+5,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006861118974431542,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+6,0.975,1.0,0.96,1.0,0.9795918367346939,0.996,0.019118465595240247,2,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+7,0.9875,1.0,0.98,1.0,0.98989898989899,0.998,0.013477802163654259,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+8,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011080630775773023,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+9,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011010226180832073,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+10,0.9875,1.0,0.98,1.0,0.98989898989899,0.9966666666666667,0.011876288999955523,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+11,0.95,1.0,0.92,1.0,0.9583333333333334,0.998,0.033263652939899566,4,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0018604680797735477,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.006040328594503179,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+14,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.012902097541806667,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.006866003682179905,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+16,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0076734944831303165,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+17,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.013462564400984256,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+18,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.010433907925447768,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+19,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.02551403933601031,3,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.0031723074036351406,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+21,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9986666666666667,0.025688704854089243,3,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+22,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.014527341770829197,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+23,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009353735016967629,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+24,0.9875,1.0,0.98,1.0,0.98989898989899,0.9973333333333334,0.013416015365473797,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+25,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9946666666666667,0.029203031673892387,3,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+26,0.9875,1.0,0.98,1.0,0.98989898989899,0.9986666666666667,0.013919017092194435,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+27,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0077261711135078095,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+28,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008499305609779021,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.002197340929190636,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0016933048477141062,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+31,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006779875662437986,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+32,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.009885587713135396,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+33,0.95,1.0,0.92,1.0,0.9583333333333334,0.9953333333333334,0.03804156884322781,4,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.006254254335766535,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0029378325976443325,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+36,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9973333333333334,0.02798199303716018,3,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+37,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.01497561710318251,3,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.003650458825587492,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+39,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.013942598473721696,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+40,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007250776249668363,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+41,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.008734382314550804,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0039573928235519685,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.005076349612529812,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+44,0.95,1.0,0.92,1.0,0.9583333333333334,0.9946666666666667,0.037472606887957685,4,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+45,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333333,0.020814619346209828,2,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+46,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007702185240770222,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+47,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007874457857243354,1,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.007254420751243601,0,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+49,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.01678364485964206,2,Logistic regression,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.00271725,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+1,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00697885,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+2,1.0,1.0,1.0,1.0,1.0,1.0,0.0026373000000000004,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.00481085,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+4,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006083299999999999,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.002425750000000001,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+6,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.006958450000000001,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+7,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005399350000000001,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0037480500000000006,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.0022795000000000003,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+10,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00595565,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+11,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005873300000000001,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.0013848500000000004,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.0015370500000000003,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+14,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9986666666666666,0.012269350000000002,3,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+15,1.0,1.0,1.0,1.0,1.0,1.0,0.0023520999999999998,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.0028222499999999997,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.00295655,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.0038555000000000004,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+19,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.014399699999999998,2,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+20,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.007724249999999999,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+21,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005930650000000001,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+22,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005306849999999999,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.001745350000000001,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.0043232,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+25,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.009070700000000001,2,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+26,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.005004800000000002,1,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.0014559000000000002,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.002912150000000001,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0015800000000000005,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.0010028000000000005,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.0025260000000000005,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.0031626500000000004,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+33,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.022029000000000003,3,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.00373085,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0022079,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+36,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.013306999999999996,2,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.0062833,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0015633500000000002,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.0022539000000000005,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.002542650000000001,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+41,1.0,1.0,1.0,1.0,1.0,1.0,0.004138850000000001,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.0012303500000000003,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.002419050000000001,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+44,0.975,1.0,0.96,1.0,0.9795918367346939,0.9993333333333333,0.01478515,2,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+45,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.013408699999999996,2,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.002568100000000001,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0026258,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.0020196000000000007,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.00471345,0,Extremely randomised trees,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.013088184320147392,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.013720758418534018,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+2,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.022023045751836137,2,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+3,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.023546420696426908,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+4,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.0253750794353315,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.012188773394176514,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+6,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.02710349687033321,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+7,0.95,0.9423076923076923,0.98,0.9,0.9607843137254902,0.989,0.0355569095631184,4,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+8,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.014917969410360193,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.014919163455886703,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+10,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.025524325514711226,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+11,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.027474264158362082,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+12,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01578048583756577,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+13,1.0,1.0,1.0,1.0,1.0,1.0,0.013861014195511095,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+14,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.015079641823592494,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+15,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.025484585052057383,3,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.010584173473444241,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.014214993923043373,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.012877946496619056,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+19,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9793333333333334,0.041627201458808626,3,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.015208924258029416,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+21,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.028285808640148524,2,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+22,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016625679103504442,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.01427908090519887,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+24,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.02338253143393152,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+25,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.02943968209749716,2,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+26,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.0289781865427698,2,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.013465033137198374,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.014857242527719522,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+29,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.017979934041218296,2,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+30,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016042870080124564,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.011031561451175861,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+32,1.0,1.0,1.0,1.0,1.0,1.0,0.012388423436786698,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+33,0.95,0.96,0.96,0.9333333333333333,0.96,0.9786666666666666,0.048768245386229744,4,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+34,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016437065890762614,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+35,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01475533107387642,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+36,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.03887456566600207,2,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.014932109590377557,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+38,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.022376893917282953,3,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.013785732883853777,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.014734537818844132,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+41,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01596300389994849,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+42,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016635543082611004,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.012330970433402123,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+44,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.03811315807059143,2,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+45,0.95,0.96,0.96,0.9333333333333333,0.96,0.9786666666666666,0.0435522298976152,4,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+46,1.0,1.0,1.0,1.0,1.0,1.0,0.012788401731647064,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.013186669882827606,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.014573662656370057,0,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+49,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.016995859568400988,1,Envelope rule,"Without anaemia-related variables (hemo, pcv, rc, ane)"
+0,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.011203468721025726,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+1,0.9875,1.0,0.98,1.0,0.98989898989899,0.9986666666666667,0.011996536949132459,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+2,0.9625,1.0,0.94,1.0,0.9690721649484536,0.988,0.03713264012600408,3,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+3,0.9875,1.0,0.98,1.0,0.98989898989899,0.9966666666666667,0.015678386094152875,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.010148555702900786,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.015108280191439196,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+6,0.95,1.0,0.92,1.0,0.9583333333333334,0.968,0.04362534100798946,4,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.004056514366818356,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+8,0.9875,1.0,0.98,1.0,0.98989898989899,0.998,0.011987063349775357,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+9,0.975,1.0,0.96,1.0,0.9795918367346939,0.9953333333333334,0.020317133781355984,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+10,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9906666666666666,0.03141817479998181,3,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.008072757916958686,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+12,0.9875,1.0,0.98,1.0,0.98989898989899,0.9986666666666667,0.014916139113611917,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+13,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9833333333333333,0.024920641387854416,3,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+14,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.012218497369388787,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+15,0.95,1.0,0.92,1.0,0.9583333333333334,0.9806666666666667,0.04222363919019289,4,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+16,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009810338642986874,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+17,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.012205695707569181,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+18,0.9875,1.0,0.98,1.0,0.98989898989899,0.996,0.014675869851740561,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.010138054484285676,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+20,0.9375,1.0,0.9,1.0,0.9473684210526315,0.9993333333333333,0.03416231172211508,5,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+21,0.9875,1.0,0.98,1.0,0.98989898989899,0.9873333333333333,0.016125282534946703,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0037569640486000235,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+23,0.9875,1.0,0.98,1.0,0.98989898989899,0.994,0.015301938708370221,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+24,0.975,1.0,0.96,1.0,0.9795918367346939,0.9953333333333334,0.02472939805043442,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+25,0.9875,1.0,0.98,1.0,0.98989898989899,0.9973333333333334,0.016901225554562072,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+26,0.975,1.0,0.96,1.0,0.9795918367346939,0.9846666666666667,0.021316568256354897,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+27,0.975,1.0,0.96,1.0,0.9795918367346939,0.9986666666666667,0.019251134211287695,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+28,0.9875,1.0,0.98,1.0,0.98989898989899,0.9986666666666667,0.016086957536010946,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+29,0.9875,1.0,0.98,1.0,0.98989898989899,0.9966666666666667,0.012554041756537584,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+30,0.975,1.0,0.96,1.0,0.9795918367346939,0.994,0.02187479241319786,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+31,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013190156650886676,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+32,0.9875,1.0,0.98,1.0,0.98989898989899,0.984,0.015643376939937885,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+33,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9933333333333334,0.03019475538790614,3,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+34,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009380124198185638,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+35,0.975,1.0,0.96,1.0,0.9795918367346939,0.9793333333333333,0.029815874077518668,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+36,0.975,1.0,0.96,1.0,0.9795918367346939,0.9986666666666667,0.02378576702711261,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+37,0.975,1.0,0.96,1.0,0.9795918367346939,0.9986666666666667,0.023150530195506232,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.010265582851539473,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.0038441326755231874,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+40,0.9875,1.0,0.98,1.0,0.98989898989899,0.996,0.015523281425384857,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+41,0.9875,1.0,0.98,1.0,0.98989898989899,0.998,0.015331615141428981,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+42,0.975,1.0,0.96,1.0,0.9795918367346939,0.9853333333333333,0.025073320445205223,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+43,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.015501646785035048,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+44,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9973333333333334,0.025038481055875094,3,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+45,0.9875,1.0,0.98,1.0,0.98989898989899,0.9973333333333334,0.01758965691784088,1,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+46,0.975,1.0,0.96,1.0,0.9795918367346939,0.978,0.02828708038164416,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.006197125539550774,0,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+48,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.0149858975939877,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+49,0.975,1.0,0.96,1.0,0.9795918367346939,0.998,0.02149465234881382,2,Logistic regression,"Without kidney markers (sc, bu, sg, al)"
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.0027992500000000005,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.004046700000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+2,0.975,1.0,0.96,1.0,0.9795918367346939,0.997,0.022216100000000003,2,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+3,1.0,1.0,1.0,1.0,1.0,1.0,0.00484825,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.005504050000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.006138350000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+6,0.975,1.0,0.96,1.0,0.9795918367346939,0.9936666666666667,0.022053749999999997,2,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+7,1.0,1.0,1.0,1.0,1.0,1.0,0.0028946500000000008,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+8,1.0,1.0,1.0,1.0,1.0,1.0,0.0034236,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+9,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007254900000000002,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+10,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.007194399999999999,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.0020094500000000003,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+12,1.0,1.0,1.0,1.0,1.0,1.0,0.004726750000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+13,0.9875,1.0,0.98,1.0,0.98989898989899,0.9933333333333333,0.0166212,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+14,1.0,1.0,1.0,1.0,1.0,1.0,0.003793550000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+15,0.9625,1.0,0.94,1.0,0.9690721649484536,0.992,0.023903849999999997,3,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.00339425,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.0048118,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.00342295,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+19,1.0,1.0,1.0,1.0,1.0,1.0,0.0054805,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+20,1.0,1.0,1.0,1.0,1.0,1.0,0.011394050000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+21,0.9875,1.0,0.98,1.0,0.98989898989899,0.996,0.01332285,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+22,1.0,1.0,1.0,1.0,1.0,1.0,0.0029005,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.00249815,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+24,1.0,1.0,1.0,1.0,1.0,1.0,0.006938300000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+25,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.00989145,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+26,0.9875,1.0,0.98,1.0,0.98989898989899,0.9920000000000001,0.01488165,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+27,1.0,1.0,1.0,1.0,1.0,1.0,0.00604865,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.0052606,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.0037269000000000004,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+30,1.0,1.0,1.0,1.0,1.0,1.0,0.006252199999999999,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.00471525,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+32,0.9875,1.0,0.98,1.0,0.98989898989899,0.9946666666666666,0.0142316,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+33,0.9875,1.0,0.98,1.0,0.98989898989899,0.9999999999999999,0.00786375,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+34,1.0,1.0,1.0,1.0,1.0,1.0,0.006003900000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+35,0.9875,1.0,0.98,1.0,0.98989898989899,0.9926666666666666,0.013995899999999997,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+36,1.0,1.0,1.0,1.0,1.0,1.0,0.00570185,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+37,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.011792650000000002,2,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.0016322000000000003,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.0025424000000000006,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+40,1.0,1.0,1.0,1.0,1.0,1.0,0.006041449999999999,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+41,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0074267499999999985,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+42,0.9875,1.0,0.98,1.0,0.98989898989899,0.9966666666666667,0.016237599999999994,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.006130200000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+44,1.0,1.0,1.0,1.0,1.0,0.9999999999999999,0.008475899999999998,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.008639850000000001,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+46,0.9875,1.0,0.98,1.0,0.98989898989899,0.9916666666666667,0.020865050000000003,1,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.0013535,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+48,1.0,1.0,1.0,1.0,1.0,1.0,0.0058441000000000005,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+49,1.0,1.0,1.0,1.0,1.0,1.0,0.0058047,0,Extremely randomised trees,"Without kidney markers (sc, bu, sg, al)"
+0,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.027376857746339356,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+1,1.0,1.0,1.0,1.0,1.0,1.0,0.019712408329748583,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+2,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.969,0.05778831875568323,4,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+3,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.024141750939790867,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+4,1.0,1.0,1.0,1.0,1.0,1.0,0.018697361569366976,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.0220043214307646,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+6,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.034241196250050385,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+7,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,1.0,0.027581765830275006,3,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+8,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.029216430235182354,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+9,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.0416472214947216,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+10,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9793333333333334,0.04493378094153877,3,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.01804061483543961,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+12,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.03123204060529896,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+13,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.02935815703205542,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+14,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.024078594093522348,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+15,0.9625,1.0,0.94,1.0,0.9690721649484536,0.97,0.051407562825607225,3,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+16,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.025055661885893577,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+17,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.025946327514839183,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+18,1.0,1.0,1.0,1.0,1.0,1.0,0.017016233923471773,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+19,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.02844615922592033,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+20,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.04411930313091594,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+21,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.028627202071643144,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+22,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.02086917082691142,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.020695453872863097,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+24,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.03336577753990554,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+25,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.030815801204825678,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+26,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.033837074289746825,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+27,0.975,0.98,0.98,0.9666666666666667,0.98,0.989,0.034453580667236264,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+28,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.030513098960309598,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.01815003177066423,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+30,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.028014489416831535,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.016957548298638936,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+32,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.034422814056465266,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+33,0.95,0.96,0.96,0.9333333333333333,0.96,0.9773333333333333,0.05544027314547908,4,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+34,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.01990568544890663,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+35,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.03436730957520903,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+36,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.034571048511554105,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+37,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9793333333333334,0.0448409238985217,3,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.018440548535374496,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+39,1.0,1.0,1.0,1.0,1.0,1.0,0.015196713662152939,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+40,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.025545369685655406,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+41,1.0,1.0,1.0,1.0,1.0,1.0,0.023319455110204196,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+42,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9793333333333334,0.04431032702462634,3,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+43,1.0,1.0,1.0,1.0,1.0,1.0,0.014291072532634735,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+44,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.040150226141902126,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+45,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9893333333333334,0.034754911113193454,3,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+46,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.03395042287091763,2,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+47,1.0,1.0,1.0,1.0,1.0,1.0,0.021184122864309967,0,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+48,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.029309080709550062,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+49,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.03197867360331795,1,Envelope rule,"Without kidney markers (sc, bu, sg, al)"
+0,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9753333333333333,0.04268058792029379,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+1,0.9625,1.0,0.94,1.0,0.9690721649484536,0.975,0.038278169339168354,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+2,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9746666666666667,0.03806487313194681,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+3,0.95,0.96,0.96,0.9333333333333333,0.96,0.9796666666666667,0.050863116510410235,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+4,0.95,0.96,0.96,0.9333333333333333,0.96,0.9780000000000001,0.05332516861091724,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+5,0.975,1.0,0.96,1.0,0.9795918367346939,0.992,0.03065555825569658,2,Logistic regression,"Urine dipstick only (sg, al, su)"
+6,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.976,0.05560026983001017,5,Logistic regression,"Urine dipstick only (sg, al, su)"
+7,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9623333333333334,0.05160506594122634,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+8,0.925,0.9583333333333334,0.92,0.9333333333333333,0.9387755102040817,0.9560000000000001,0.07084655385457747,6,Logistic regression,"Urine dipstick only (sg, al, su)"
+9,0.9875,1.0,0.98,1.0,0.98989898989899,0.995,0.020334574655054782,1,Logistic regression,"Urine dipstick only (sg, al, su)"
+10,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9876666666666666,0.04436739389559144,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+11,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.966,0.05815382404539898,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+12,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9946666666666667,0.024306509638532047,1,Logistic regression,"Urine dipstick only (sg, al, su)"
+13,0.975,1.0,0.96,1.0,0.9795918367346939,0.986,0.032486734374444395,2,Logistic regression,"Urine dipstick only (sg, al, su)"
+14,0.925,0.9583333333333334,0.92,0.9333333333333333,0.9387755102040817,0.9553333333333334,0.06740977622289276,6,Logistic regression,"Urine dipstick only (sg, al, su)"
+15,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9933333333333333,0.02412656875791317,1,Logistic regression,"Urine dipstick only (sg, al, su)"
+16,0.95,1.0,0.92,1.0,0.9583333333333334,0.966,0.05094123846410916,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+17,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.9666666666666667,0.058397150237699494,5,Logistic regression,"Urine dipstick only (sg, al, su)"
+18,0.975,0.98,0.98,0.9666666666666667,0.98,0.987,0.0388145446606777,2,Logistic regression,"Urine dipstick only (sg, al, su)"
+19,0.9375,0.9787234042553191,0.92,0.9666666666666667,0.9484536082474226,0.9776666666666667,0.05601362793719149,5,Logistic regression,"Urine dipstick only (sg, al, su)"
+20,0.95,0.96,0.96,0.9333333333333333,0.96,0.9813333333333334,0.05168354211106514,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+21,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9696666666666667,0.05106075734840816,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+22,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9773333333333333,0.043777345708082435,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+23,0.9625,1.0,0.94,1.0,0.9690721649484536,0.9813333333333334,0.040586620482289545,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+24,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.991,0.03700771918064662,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+25,0.925,0.9782608695652174,0.9,0.9666666666666667,0.9375,0.9530000000000001,0.07000187499204699,6,Logistic regression,"Urine dipstick only (sg, al, su)"
+26,0.9875,1.0,0.98,1.0,0.98989898989899,0.9943333333333333,0.022148823789661994,1,Logistic regression,"Urine dipstick only (sg, al, su)"
+27,0.9625,1.0,0.94,1.0,0.9690721649484536,0.981,0.041352110736743705,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+28,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9633333333333333,0.05049997698279137,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+29,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,0.989,0.041643662132737944,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+30,0.975,0.98,0.98,0.9666666666666667,0.98,0.9913333333333334,0.0320598886347751,2,Logistic regression,"Urine dipstick only (sg, al, su)"
+31,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9693333333333333,0.04648983576750386,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+32,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9789999999999999,0.041367668439555236,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+33,0.9375,0.9787234042553191,0.92,0.9666666666666667,0.9484536082474226,0.9726666666666667,0.059555692067692,5,Logistic regression,"Urine dipstick only (sg, al, su)"
+34,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.983,0.04094414634403623,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+35,0.95,0.96,0.96,0.9333333333333333,0.96,0.9886666666666667,0.04551042611206194,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+36,0.9625,1.0,0.94,1.0,0.9690721649484536,0.99,0.04157538627142403,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+37,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.983,0.03916435514457236,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+38,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.02351322408962508,1,Logistic regression,"Urine dipstick only (sg, al, su)"
+39,0.925,0.9583333333333334,0.92,0.9333333333333333,0.9387755102040817,0.96,0.07138405044324243,6,Logistic regression,"Urine dipstick only (sg, al, su)"
+40,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9863333333333333,0.04149917617770734,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+41,0.925,0.9782608695652174,0.9,0.9666666666666667,0.9375,0.9756666666666667,0.06604106923965496,6,Logistic regression,"Urine dipstick only (sg, al, su)"
+42,0.9875,1.0,0.98,1.0,0.98989898989899,0.9893333333333333,0.022986214707578084,1,Logistic regression,"Urine dipstick only (sg, al, su)"
+43,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.994,0.02233079705307698,1,Logistic regression,"Urine dipstick only (sg, al, su)"
+44,0.925,0.9583333333333334,0.92,0.9333333333333333,0.9387755102040817,0.9623333333333333,0.06973871205561424,6,Logistic regression,"Urine dipstick only (sg, al, su)"
+45,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9826666666666667,0.038913531947525525,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+46,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9883333333333333,0.0388939976997915,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+47,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9866666666666667,0.0431508496486294,3,Logistic regression,"Urine dipstick only (sg, al, su)"
+48,0.95,1.0,0.92,1.0,0.9583333333333334,0.99,0.04355067451580051,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+49,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9703333333333333,0.05534822370339419,4,Logistic regression,"Urine dipstick only (sg, al, su)"
+0,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9786666666666666,0.03499717316843952,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+1,0.9875,1.0,0.98,1.0,0.98989898989899,0.995,0.013749759732439405,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+2,0.975,1.0,0.96,1.0,0.9795918367346939,0.9873333333333333,0.024469614885155602,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+3,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9863333333333333,0.034724492254639736,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+4,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9873333333333334,0.03347787222700753,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+5,0.975,1.0,0.96,1.0,0.9795918367346939,0.992,0.02350002823969261,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+6,0.95,0.96,0.96,0.9333333333333333,0.96,0.98,0.04447618012357444,4,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+7,0.975,0.98,0.98,0.9666666666666667,0.98,0.9903333333333333,0.023489372297396827,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+8,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9773333333333333,0.03823348008547027,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+9,0.9875,1.0,0.98,1.0,0.98989898989899,0.995,0.013749218644476442,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+10,0.975,0.98,0.98,0.9666666666666667,0.98,0.9903333333333333,0.023581351845432377,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+11,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9726666666666667,0.04627064710181591,4,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+12,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9966666666666667,0.013490829487332512,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+13,0.9875,1.0,0.98,1.0,0.98989898989899,0.9953333333333334,0.012949088533775261,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+14,0.95,0.96,0.96,0.9333333333333333,0.96,0.982,0.04433912163696433,4,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+15,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.996,0.013808072158171616,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.003987160434214267,0,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+17,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.9693333333333334,0.05670011590870747,5,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+18,0.975,0.98,0.98,0.9666666666666667,0.98,0.9923333333333334,0.022882629928916938,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+19,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.981,0.04582384680792816,4,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+20,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9906666666666667,0.03313426020579558,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+21,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9723333333333333,0.04601955942099142,4,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+22,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9806666666666666,0.03614795281255841,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+23,1.0,1.0,1.0,1.0,1.0,1.0,0.004626370683133765,0,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+24,0.975,0.98,0.98,0.9666666666666667,0.98,0.993,0.022392177658897405,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+25,0.9375,0.9787234042553191,0.92,0.9666666666666667,0.9484536082474226,0.9663333333333333,0.05806353884327168,5,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+26,0.9875,1.0,0.98,1.0,0.98989898989899,0.9943333333333333,0.013478697667507433,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+27,0.9875,1.0,0.98,1.0,0.98989898989899,0.9936666666666667,0.013646606280898695,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+28,0.975,0.98,0.98,0.9666666666666667,0.98,0.9893333333333334,0.02454492153523497,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+29,0.9625,0.9433962264150944,1.0,0.9,0.970873786407767,0.993,0.034382126323199716,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+30,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.996,0.01337814693076297,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+31,0.975,0.98,0.98,0.9666666666666667,0.98,0.9926666666666667,0.022514529667936038,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+32,0.975,0.98,0.98,0.9666666666666667,0.98,0.9803333333333333,0.026281341611151872,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+33,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9786666666666667,0.045708211094328585,4,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+34,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.987,0.03369705303705421,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+35,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.9953333333333333,0.02355489950702796,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+36,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.025562895347476987,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+37,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9856666666666666,0.033757113373921406,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+38,1.0,1.0,1.0,1.0,1.0,1.0,0.004854270232643173,0,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+39,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.968,0.056721484025842206,5,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+40,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666667,0.023917427999861803,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+41,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.981,0.04552160602154944,4,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+42,1.0,1.0,1.0,1.0,1.0,1.0,0.004914795372435715,0,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+43,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9966666666666667,0.01283073620444777,1,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+44,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.9703333333333333,0.05670535618486441,5,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+45,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.986,0.03393158085199292,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+46,0.975,0.98,0.98,0.9666666666666667,0.98,0.991,0.023559245455102355,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+47,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.9946666666666667,0.023159367105929203,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+48,0.975,1.0,0.96,1.0,0.9795918367346939,0.99,0.024471595946810254,2,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+49,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9756666666666667,0.035456462437659444,3,Extremely randomised trees,"Urine dipstick only (sg, al, su)"
+0,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.15556055483941905,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+1,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.1571006779118816,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+2,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.15951080523552558,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+3,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.17057610014005314,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+4,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.1707579808139952,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+5,0.925,1.0,0.88,1.0,0.9361702127659575,0.94,0.12188143975534338,6,Envelope rule,"Urine dipstick only (sg, al, su)"
+6,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.21405642896007032,14,Envelope rule,"Urine dipstick only (sg, al, su)"
+7,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.18520837112611901,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+8,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9299999999999999,0.13845198239434364,7,Envelope rule,"Urine dipstick only (sg, al, su)"
+9,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.1539078967049982,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+10,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.1559056212528925,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+11,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.18354051739109284,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+12,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.17389394493297222,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+13,0.9375,1.0,0.9,1.0,0.9473684210526315,0.95,0.11766010315176922,5,Envelope rule,"Urine dipstick only (sg, al, su)"
+14,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.18250593221214778,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+15,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.20157885607841028,13,Envelope rule,"Urine dipstick only (sg, al, su)"
+16,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9299999999999999,0.13994930201545586,7,Envelope rule,"Urine dipstick only (sg, al, su)"
+17,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.17585412522190405,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+18,0.95,1.0,0.92,1.0,0.9583333333333334,0.96,0.10279309850016119,4,Envelope rule,"Urine dipstick only (sg, al, su)"
+19,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.1933307371249432,12,Envelope rule,"Urine dipstick only (sg, al, su)"
+20,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9299999999999999,0.1348555256012119,7,Envelope rule,"Urine dipstick only (sg, al, su)"
+21,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.15878047571004933,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+22,0.7875,1.0,0.66,1.0,0.7951807228915663,0.8300000000000001,0.2503364976916536,17,Envelope rule,"Urine dipstick only (sg, al, su)"
+23,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.17362683127970172,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+24,0.95,1.0,0.92,1.0,0.9583333333333334,0.96,0.0959067886582581,4,Envelope rule,"Urine dipstick only (sg, al, su)"
+25,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.19194518494185817,12,Envelope rule,"Urine dipstick only (sg, al, su)"
+26,0.925,1.0,0.88,1.0,0.9361702127659575,0.94,0.12232761373048588,6,Envelope rule,"Urine dipstick only (sg, al, su)"
+27,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9299999999999999,0.13601934681390399,7,Envelope rule,"Urine dipstick only (sg, al, su)"
+28,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.22955710647623007,15,Envelope rule,"Urine dipstick only (sg, al, su)"
+29,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9299999999999999,0.13365686697839646,7,Envelope rule,"Urine dipstick only (sg, al, su)"
+30,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.2043676326074863,13,Envelope rule,"Urine dipstick only (sg, al, su)"
+31,0.925,1.0,0.88,1.0,0.9361702127659575,0.94,0.12330107549594715,6,Envelope rule,"Urine dipstick only (sg, al, su)"
+32,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.17767621690635957,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+33,0.9,1.0,0.84,1.0,0.9130434782608695,0.9199999999999999,0.15132349589319344,8,Envelope rule,"Urine dipstick only (sg, al, su)"
+34,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.1568376980378881,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+35,0.9375,1.0,0.9,1.0,0.9473684210526315,0.95,0.10842975268960667,5,Envelope rule,"Urine dipstick only (sg, al, su)"
+36,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.20640704822713438,13,Envelope rule,"Urine dipstick only (sg, al, su)"
+37,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.15692178389702938,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+38,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.17128415246328568,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+39,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.1704633816638185,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+40,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.16747167285443798,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+41,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9299999999999999,0.1436953534961844,7,Envelope rule,"Urine dipstick only (sg, al, su)"
+42,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.17818071901570048,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+43,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.16746058939591635,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+44,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.15669778417863534,9,Envelope rule,"Urine dipstick only (sg, al, su)"
+45,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.178641933047514,11,Envelope rule,"Urine dipstick only (sg, al, su)"
+46,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.170385820851097,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+47,0.9,1.0,0.84,1.0,0.9130434782608695,0.9199999999999999,0.14536744782642957,8,Envelope rule,"Urine dipstick only (sg, al, su)"
+48,0.9,1.0,0.84,1.0,0.9130434782608695,0.9199999999999999,0.1479727586204905,8,Envelope rule,"Urine dipstick only (sg, al, su)"
+49,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.17113815859534348,10,Envelope rule,"Urine dipstick only (sg, al, su)"
+0,0.8,0.8035714285714286,0.9,0.6333333333333333,0.8490566037735849,0.919,0.11450072358228577,16,Logistic regression,Serum creatinine only
+1,0.8125,0.8723404255319149,0.82,0.8,0.845360824742268,0.917,0.11276709322270698,15,Logistic regression,Serum creatinine only
+2,0.8625,0.8823529411764706,0.9,0.8,0.8910891089108911,0.9113333333333333,0.1215799713941,11,Logistic regression,Serum creatinine only
+3,0.825,0.875,0.84,0.8,0.8571428571428571,0.9236666666666666,0.1071098630943681,14,Logistic regression,Serum creatinine only
+4,0.825,0.875,0.84,0.8,0.8571428571428571,0.9176666666666667,0.10651553337437018,14,Logistic regression,Serum creatinine only
+5,0.8375,0.8936170212765957,0.84,0.8333333333333334,0.865979381443299,0.9123333333333333,0.11225951687318503,13,Logistic regression,Serum creatinine only
+6,0.8,0.8863636363636364,0.78,0.8333333333333334,0.8297872340425532,0.9233333333333333,0.10818622756565155,16,Logistic regression,Serum creatinine only
+7,0.825,0.86,0.86,0.7666666666666667,0.86,0.8986666666666666,0.1220330552000883,14,Logistic regression,Serum creatinine only
+8,0.85,0.8518518518518519,0.92,0.7333333333333333,0.8846153846153846,0.938,0.10414726002956223,12,Logistic regression,Serum creatinine only
+9,0.8125,0.8181818181818182,0.9,0.6666666666666666,0.8571428571428571,0.9169999999999999,0.11601507529099257,15,Logistic regression,Serum creatinine only
+10,0.85,0.8518518518518519,0.92,0.7333333333333333,0.8846153846153846,0.9183333333333333,0.1132789500061405,12,Logistic regression,Serum creatinine only
+11,0.8,0.8863636363636364,0.78,0.8333333333333334,0.8297872340425532,0.8760000000000001,0.13277766570516003,16,Logistic regression,Serum creatinine only
+12,0.8625,0.8979591836734694,0.88,0.8333333333333334,0.8888888888888888,0.9486666666666665,0.08687434554228031,11,Logistic regression,Serum creatinine only
+13,0.775,0.7962962962962963,0.86,0.6333333333333333,0.8269230769230769,0.905,0.1235857678674029,18,Logistic regression,Serum creatinine only
+14,0.8375,0.8775510204081632,0.86,0.8,0.8686868686868687,0.9256666666666665,0.10486058492578303,13,Logistic regression,Serum creatinine only
+15,0.875,0.9347826086956522,0.86,0.9,0.8958333333333334,0.9446666666666667,0.096166025017575,10,Logistic regression,Serum creatinine only
+16,0.8125,0.8723404255319149,0.82,0.8,0.845360824742268,0.9163333333333333,0.10687778161043215,15,Logistic regression,Serum creatinine only
+17,0.75,0.7777777777777778,0.84,0.6,0.8076923076923077,0.8596666666666667,0.15125480732694757,20,Logistic regression,Serum creatinine only
+18,0.85,0.8653846153846154,0.9,0.7666666666666667,0.8823529411764706,0.9473333333333334,0.09316691709784539,12,Logistic regression,Serum creatinine only
+19,0.8375,0.8627450980392157,0.88,0.7666666666666667,0.8712871287128713,0.9123333333333334,0.11798792549610444,13,Logistic regression,Serum creatinine only
+20,0.775,0.82,0.82,0.7,0.82,0.8926666666666667,0.1246826653545893,18,Logistic regression,Serum creatinine only
+21,0.9125,0.9387755102040817,0.92,0.9,0.9292929292929293,0.9533333333333334,0.0876967732323924,7,Logistic regression,Serum creatinine only
+22,0.7875,0.851063829787234,0.8,0.7666666666666667,0.8247422680412371,0.901,0.1240418805492706,17,Logistic regression,Serum creatinine only
+23,0.85,0.8392857142857143,0.94,0.7,0.8867924528301887,0.9559999999999998,0.09293962759858125,12,Logistic regression,Serum creatinine only
+24,0.8,0.8541666666666666,0.82,0.7666666666666667,0.8367346938775511,0.8766666666666667,0.13636408666708538,16,Logistic regression,Serum creatinine only
+25,0.825,0.86,0.86,0.7666666666666667,0.86,0.9026666666666666,0.1251600819491101,14,Logistic regression,Serum creatinine only
+26,0.775,0.8333333333333334,0.8,0.7333333333333333,0.8163265306122449,0.877,0.1353701325341923,18,Logistic regression,Serum creatinine only
+27,0.875,0.8846153846153846,0.92,0.8,0.9019607843137255,0.9373333333333334,0.09577613818486339,10,Logistic regression,Serum creatinine only
+28,0.8,0.8695652173913043,0.8,0.8,0.8333333333333334,0.8879999999999999,0.12659280035227144,16,Logistic regression,Serum creatinine only
+29,0.85,0.8518518518518519,0.92,0.7333333333333333,0.8846153846153846,0.9646666666666667,0.0810395386042023,12,Logistic regression,Serum creatinine only
+30,0.8625,0.8979591836734694,0.88,0.8333333333333334,0.8888888888888888,0.9393333333333334,0.09942941383135087,11,Logistic regression,Serum creatinine only
+31,0.825,0.8214285714285714,0.92,0.6666666666666666,0.8679245283018868,0.9256666666666666,0.11214500785462796,14,Logistic regression,Serum creatinine only
+32,0.8375,0.8627450980392157,0.88,0.7666666666666667,0.8712871287128713,0.9053333333333334,0.11718741218879727,13,Logistic regression,Serum creatinine only
+33,0.7625,0.8297872340425532,0.78,0.7333333333333333,0.8041237113402062,0.8616666666666667,0.14358683673854866,19,Logistic regression,Serum creatinine only
+34,0.8375,0.8936170212765957,0.84,0.8333333333333334,0.865979381443299,0.9433333333333334,0.09041686192153874,13,Logistic regression,Serum creatinine only
+35,0.825,0.875,0.84,0.8,0.8571428571428571,0.9103333333333333,0.10857098989741423,14,Logistic regression,Serum creatinine only
+36,0.85,0.8958333333333334,0.86,0.8333333333333334,0.8775510204081632,0.9416666666666667,0.09671735466689793,12,Logistic regression,Serum creatinine only
+37,0.8375,0.8245614035087719,0.94,0.6666666666666666,0.8785046728971962,0.9236666666666667,0.11121966020390213,13,Logistic regression,Serum creatinine only
+38,0.825,0.86,0.86,0.7666666666666667,0.86,0.9263333333333333,0.10450651933824513,14,Logistic regression,Serum creatinine only
+39,0.7875,0.851063829787234,0.8,0.7666666666666667,0.8247422680412371,0.8663333333333334,0.14194080242965662,17,Logistic regression,Serum creatinine only
+40,0.8375,0.8490566037735849,0.9,0.7333333333333333,0.8737864077669902,0.9276666666666666,0.10693573582538514,13,Logistic regression,Serum creatinine only
+41,0.8125,0.8431372549019608,0.86,0.7333333333333333,0.8514851485148515,0.9016666666666667,0.12163687993225789,15,Logistic regression,Serum creatinine only
+42,0.85,0.8518518518518519,0.92,0.7333333333333333,0.8846153846153846,0.947,0.09762927520953672,12,Logistic regression,Serum creatinine only
+43,0.7875,0.851063829787234,0.8,0.7666666666666667,0.8247422680412371,0.8896666666666667,0.12767390144694854,17,Logistic regression,Serum creatinine only
+44,0.8375,0.9111111111111111,0.82,0.8666666666666667,0.8631578947368421,0.923,0.10844489865283233,13,Logistic regression,Serum creatinine only
+45,0.8125,0.8301886792452831,0.88,0.7,0.8543689320388349,0.9176666666666667,0.11131052474683889,15,Logistic regression,Serum creatinine only
+46,0.85,0.8653846153846154,0.9,0.7666666666666667,0.8823529411764706,0.9436666666666667,0.09537661351740567,12,Logistic regression,Serum creatinine only
+47,0.825,0.875,0.84,0.8,0.8571428571428571,0.8973333333333333,0.12359090715115932,14,Logistic regression,Serum creatinine only
+48,0.775,0.8636363636363636,0.76,0.8,0.8085106382978723,0.8676666666666666,0.1341775704956989,18,Logistic regression,Serum creatinine only
+49,0.8625,0.8679245283018868,0.92,0.7666666666666667,0.8932038834951457,0.9463333333333334,0.098728597768361,11,Logistic regression,Serum creatinine only
+0,0.9,0.9772727272727273,0.86,0.9666666666666667,0.9148936170212766,0.9456666666666668,0.08062359305720565,8,Extremely randomised trees,Serum creatinine only
+1,0.875,1.0,0.8,1.0,0.8888888888888888,0.9156666666666666,0.10263747589440284,10,Extremely randomised trees,Serum creatinine only
+2,0.85,0.9523809523809523,0.8,0.9333333333333333,0.8695652173913043,0.8766666666666666,0.12571404019768084,12,Extremely randomised trees,Serum creatinine only
+3,0.875,0.9761904761904762,0.82,0.9666666666666667,0.8913043478260869,0.9123333333333333,0.09147405804208883,10,Extremely randomised trees,Serum creatinine only
+4,0.875,0.9761904761904762,0.82,0.9666666666666667,0.8913043478260869,0.9276666666666666,0.09478281481444137,10,Extremely randomised trees,Serum creatinine only
+5,0.8875,1.0,0.82,1.0,0.9010989010989011,0.8976666666666666,0.09810705173613546,9,Extremely randomised trees,Serum creatinine only
+6,0.8625,1.0,0.78,1.0,0.8764044943820225,0.8833333333333333,0.10651338015225412,11,Extremely randomised trees,Serum creatinine only
+7,0.85,0.9523809523809523,0.8,0.9333333333333333,0.8695652173913043,0.8756666666666667,0.11903456826752896,12,Extremely randomised trees,Serum creatinine only
+8,0.9,0.9565217391304348,0.88,0.9333333333333333,0.9166666666666666,0.9393333333333332,0.08299394116514744,8,Extremely randomised trees,Serum creatinine only
+9,0.875,0.9761904761904762,0.82,0.9666666666666667,0.8913043478260869,0.9183333333333333,0.09693367579658708,10,Extremely randomised trees,Serum creatinine only
+10,0.8625,0.9148936170212766,0.86,0.8666666666666667,0.8865979381443299,0.9363333333333334,0.10801462110618414,11,Extremely randomised trees,Serum creatinine only
+11,0.85,1.0,0.76,1.0,0.8636363636363636,0.8853333333333334,0.118694182118635,12,Extremely randomised trees,Serum creatinine only
+12,0.9,0.9772727272727273,0.86,0.9666666666666667,0.9148936170212766,0.9326666666666666,0.0856877348211886,8,Extremely randomised trees,Serum creatinine only
+13,0.875,1.0,0.8,1.0,0.8888888888888888,0.915,0.09779125765245955,10,Extremely randomised trees,Serum creatinine only
+14,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9216666666666666,0.0926287057509951,9,Extremely randomised trees,Serum creatinine only
+15,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9386666666666665,0.09069087432530913,9,Extremely randomised trees,Serum creatinine only
+16,0.875,1.0,0.8,1.0,0.8888888888888888,0.919,0.0958507464164378,10,Extremely randomised trees,Serum creatinine only
+17,0.8375,0.9111111111111111,0.82,0.8666666666666667,0.8631578947368421,0.8936666666666667,0.13039844638669268,13,Extremely randomised trees,Serum creatinine only
+18,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9333333333333333,0.07861705874179031,7,Extremely randomised trees,Serum creatinine only
+19,0.8625,0.975609756097561,0.8,0.9666666666666667,0.8791208791208791,0.9063333333333333,0.10629437442282452,11,Extremely randomised trees,Serum creatinine only
+20,0.8625,1.0,0.78,1.0,0.8764044943820225,0.907,0.10587592477613901,11,Extremely randomised trees,Serum creatinine only
+21,0.9125,0.9777777777777777,0.88,0.9666666666666667,0.9263157894736842,0.9553333333333334,0.07208065066985396,7,Extremely randomised trees,Serum creatinine only
+22,0.85,0.9523809523809523,0.8,0.9333333333333333,0.8695652173913043,0.8973333333333334,0.11440285735157503,12,Extremely randomised trees,Serum creatinine only
+23,0.925,1.0,0.88,1.0,0.9361702127659575,0.942,0.07553391771829084,6,Extremely randomised trees,Serum creatinine only
+24,0.825,0.95,0.76,0.9333333333333333,0.8444444444444444,0.8946666666666666,0.13413776468484664,14,Extremely randomised trees,Serum creatinine only
+25,0.8,0.84,0.84,0.7333333333333333,0.84,0.8946666666666666,0.11093417433964603,16,Extremely randomised trees,Serum creatinine only
+26,0.85,0.975,0.78,0.9666666666666667,0.8666666666666667,0.8796666666666666,0.11551380411496326,12,Extremely randomised trees,Serum creatinine only
+27,0.9125,0.9574468085106383,0.9,0.9333333333333333,0.9278350515463918,0.9640000000000001,0.06902489068815679,7,Extremely randomised trees,Serum creatinine only
+28,0.8375,0.9743589743589743,0.76,0.9666666666666667,0.8539325842696629,0.88,0.11810081053213115,13,Extremely randomised trees,Serum creatinine only
+29,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9553333333333334,0.07365734044372774,7,Extremely randomised trees,Serum creatinine only
+30,0.8875,1.0,0.82,1.0,0.9010989010989011,0.926,0.0901439739646603,9,Extremely randomised trees,Serum creatinine only
+31,0.8875,0.9555555555555556,0.86,0.9333333333333333,0.9052631578947369,0.9536666666666667,0.0822658026986231,9,Extremely randomised trees,Serum creatinine only
+32,0.8625,0.9534883720930233,0.82,0.9333333333333333,0.8817204301075269,0.9019999999999999,0.10815651926093425,11,Extremely randomised trees,Serum creatinine only
+33,0.8375,0.9743589743589743,0.76,0.9666666666666667,0.8539325842696629,0.893,0.119306870008235,13,Extremely randomised trees,Serum creatinine only
+34,0.9,1.0,0.84,1.0,0.9130434782608695,0.944,0.07838542790018248,8,Extremely randomised trees,Serum creatinine only
+35,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9123333333333334,0.08964793309855264,9,Extremely randomised trees,Serum creatinine only
+36,0.875,0.9761904761904762,0.82,0.9666666666666667,0.8913043478260869,0.9223333333333333,0.09493634594973215,10,Extremely randomised trees,Serum creatinine only
+37,0.9,0.9565217391304348,0.88,0.9333333333333333,0.9166666666666666,0.929,0.08890878605113027,8,Extremely randomised trees,Serum creatinine only
+38,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9286666666666666,0.08720520938648006,9,Extremely randomised trees,Serum creatinine only
+39,0.825,0.95,0.76,0.9333333333333333,0.8444444444444444,0.8823333333333334,0.12320646498660337,14,Extremely randomised trees,Serum creatinine only
+40,0.8625,0.9534883720930233,0.82,0.9333333333333333,0.8817204301075269,0.8996666666666667,0.105286579224138,11,Extremely randomised trees,Serum creatinine only
+41,0.875,0.9761904761904762,0.82,0.9666666666666667,0.8913043478260869,0.9153333333333333,0.09495678384742277,10,Extremely randomised trees,Serum creatinine only
+42,0.925,1.0,0.88,1.0,0.9361702127659575,0.9316666666666666,0.08044392179049586,6,Extremely randomised trees,Serum creatinine only
+43,0.85,0.9523809523809523,0.8,0.9333333333333333,0.8695652173913043,0.8990000000000001,0.11539674614430968,12,Extremely randomised trees,Serum creatinine only
+44,0.8625,1.0,0.78,1.0,0.8764044943820225,0.919,0.10403084714277866,11,Extremely randomised trees,Serum creatinine only
+45,0.8875,0.9767441860465116,0.84,0.9666666666666667,0.9032258064516129,0.9223333333333333,0.09102960727253122,9,Extremely randomised trees,Serum creatinine only
+46,0.9,0.9772727272727273,0.86,0.9666666666666667,0.9148936170212766,0.9383333333333332,0.08160372496871428,8,Extremely randomised trees,Serum creatinine only
+47,0.825,0.95,0.76,0.9333333333333333,0.8444444444444444,0.8806666666666667,0.12928984504405946,14,Extremely randomised trees,Serum creatinine only
+48,0.85,1.0,0.76,1.0,0.8636363636363636,0.8756666666666666,0.11133225802789834,12,Extremely randomised trees,Serum creatinine only
+49,0.9125,0.9777777777777777,0.88,0.9666666666666667,0.9263157894736842,0.9563333333333333,0.0726897135768538,7,Extremely randomised trees,Serum creatinine only
+0,0.9,1.0,0.84,1.0,0.9130434782608695,0.9199999999999999,0.17796309770641217,8,Envelope rule,Serum creatinine only
+1,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.23093397186689715,13,Envelope rule,Serum creatinine only
+2,0.825,0.9736842105263158,0.74,0.9666666666666667,0.8409090909090909,0.8646666666666666,0.23657092769078342,14,Envelope rule,Serum creatinine only
+3,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.1983719374133398,10,Envelope rule,Serum creatinine only
+4,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.22860266543888588,13,Envelope rule,Serum creatinine only
+5,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.2106393780226686,11,Envelope rule,Serum creatinine only
+6,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.23077631752278815,13,Envelope rule,Serum creatinine only
+7,0.8125,0.972972972972973,0.72,0.9666666666666667,0.8275862068965517,0.855,0.2413485227729995,15,Envelope rule,Serum creatinine only
+8,0.9,1.0,0.84,1.0,0.9130434782608695,0.9199999999999999,0.18107037087840075,8,Envelope rule,Serum creatinine only
+9,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.20873983333755902,11,Envelope rule,Serum creatinine only
+10,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.18853715792402642,9,Envelope rule,Serum creatinine only
+11,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.24142510314820437,14,Envelope rule,Serum creatinine only
+12,0.8625,0.975609756097561,0.8,0.9666666666666667,0.8791208791208791,0.8966666666666666,0.1991650177003635,11,Envelope rule,Serum creatinine only
+13,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.23270063145602796,13,Envelope rule,Serum creatinine only
+14,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.21056973112712188,11,Envelope rule,Serum creatinine only
+15,0.8375,0.9743589743589743,0.76,0.9666666666666667,0.8539325842696629,0.875,0.22355682565868232,13,Envelope rule,Serum creatinine only
+16,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.2053078074431122,11,Envelope rule,Serum creatinine only
+17,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.21109114806537016,11,Envelope rule,Serum creatinine only
+18,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.1999122284179639,10,Envelope rule,Serum creatinine only
+19,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.23257483754052477,13,Envelope rule,Serum creatinine only
+20,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.2405447264168296,14,Envelope rule,Serum creatinine only
+21,0.8875,0.9767441860465116,0.84,0.9666666666666667,0.9032258064516129,0.9166666666666666,0.18145116892279026,9,Envelope rule,Serum creatinine only
+22,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.21169314396810052,11,Envelope rule,Serum creatinine only
+23,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.1867833913431516,9,Envelope rule,Serum creatinine only
+24,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.25176294246755127,15,Envelope rule,Serum creatinine only
+25,0.8375,0.9743589743589743,0.76,0.9666666666666667,0.8539325842696629,0.875,0.22453887565559763,13,Envelope rule,Serum creatinine only
+26,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.22917518998491038,13,Envelope rule,Serum creatinine only
+27,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.19210160368231172,9,Envelope rule,Serum creatinine only
+28,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.22849258766574948,13,Envelope rule,Serum creatinine only
+29,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.19811551088486756,10,Envelope rule,Serum creatinine only
+30,0.85,0.975,0.78,0.9666666666666667,0.8666666666666667,0.8853333333333334,0.21248502413593515,12,Envelope rule,Serum creatinine only
+31,0.9125,1.0,0.86,1.0,0.9247311827956989,0.9299999999999999,0.16908629910998402,7,Envelope rule,Serum creatinine only
+32,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.22941730553292258,13,Envelope rule,Serum creatinine only
+33,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.2634220403888456,16,Envelope rule,Serum creatinine only
+34,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.19797257547891772,10,Envelope rule,Serum creatinine only
+35,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.2067299477162115,11,Envelope rule,Serum creatinine only
+36,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.21881627210137036,12,Envelope rule,Serum creatinine only
+37,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.1913325469526849,9,Envelope rule,Serum creatinine only
+38,0.8625,0.975609756097561,0.8,0.9666666666666667,0.8791208791208791,0.8956666666666666,0.20264154367362813,11,Envelope rule,Serum creatinine only
+39,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2527829370635254,15,Envelope rule,Serum creatinine only
+40,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.22901229189218472,13,Envelope rule,Serum creatinine only
+41,0.85,0.975,0.78,0.9666666666666667,0.8666666666666667,0.8856666666666667,0.21333530272058723,12,Envelope rule,Serum creatinine only
+42,0.9,1.0,0.84,1.0,0.9130434782608695,0.9199999999999999,0.1773003104378302,8,Envelope rule,Serum creatinine only
+43,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.22201947134074299,12,Envelope rule,Serum creatinine only
+44,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.2306697471999751,13,Envelope rule,Serum creatinine only
+45,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.20823324936588036,11,Envelope rule,Serum creatinine only
+46,0.9,1.0,0.84,1.0,0.9130434782608695,0.9199999999999999,0.17748868480263974,8,Envelope rule,Serum creatinine only
+47,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.240253345522343,14,Envelope rule,Serum creatinine only
+48,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2535237411838236,15,Envelope rule,Serum creatinine only
+49,0.875,0.9761904761904762,0.82,0.9666666666666667,0.8913043478260869,0.9059999999999999,0.19275959478201599,10,Envelope rule,Serum creatinine only
+0,0.9125,0.9215686274509803,0.94,0.8666666666666667,0.9306930693069307,0.9696666666666667,0.06458010621172909,7,Logistic regression,Haemoglobin only
+1,0.9125,0.9215686274509803,0.94,0.8666666666666667,0.9306930693069307,0.9726666666666667,0.07039149983489916,7,Logistic regression,Haemoglobin only
+2,0.9125,0.9387755102040817,0.92,0.9,0.9292929292929293,0.9583333333333334,0.07282151662507845,7,Logistic regression,Haemoglobin only
+3,0.8375,0.8363636363636363,0.92,0.7,0.8761904761904762,0.9390000000000001,0.09991950876627056,13,Logistic regression,Haemoglobin only
+4,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.984,0.04863978841797807,3,Logistic regression,Haemoglobin only
+5,0.8875,0.9019607843137255,0.92,0.8333333333333334,0.9108910891089109,0.9600000000000001,0.08008480046825729,9,Logistic regression,Haemoglobin only
+6,0.9125,0.9215686274509803,0.94,0.8666666666666667,0.9306930693069307,0.965,0.07457827559601068,7,Logistic regression,Haemoglobin only
+7,0.9125,0.9056603773584906,0.96,0.8333333333333334,0.9320388349514563,0.9736666666666667,0.06567156524441928,7,Logistic regression,Haemoglobin only
+8,0.9125,0.9387755102040817,0.92,0.9,0.9292929292929293,0.955,0.07311492789234075,7,Logistic regression,Haemoglobin only
+9,0.925,0.9230769230769231,0.96,0.8666666666666667,0.9411764705882353,0.973,0.06078454960837776,6,Logistic regression,Haemoglobin only
+10,0.925,0.9230769230769231,0.96,0.8666666666666667,0.9411764705882353,0.988,0.04590049586671165,6,Logistic regression,Haemoglobin only
+11,0.9375,0.9245283018867925,0.98,0.8666666666666667,0.9514563106796117,0.9866666666666667,0.054053660809786686,5,Logistic regression,Haemoglobin only
+12,0.9,0.8888888888888888,0.96,0.8,0.9230769230769231,0.9706666666666667,0.07189941584841722,8,Logistic regression,Haemoglobin only
+13,0.8875,0.9361702127659575,0.88,0.9,0.9072164948453608,0.9319999999999999,0.10087936795692957,9,Logistic regression,Haemoglobin only
+14,0.875,0.9,0.9,0.8333333333333334,0.9,0.9543333333333333,0.08916574517263941,10,Logistic regression,Haemoglobin only
+15,0.875,0.9347826086956522,0.86,0.9,0.8958333333333334,0.9483333333333334,0.08820098932633942,10,Logistic regression,Haemoglobin only
+16,0.95,1.0,0.92,1.0,0.9583333333333334,0.969,0.057766535375584314,4,Logistic regression,Haemoglobin only
+17,0.9,0.9038461538461539,0.94,0.8333333333333334,0.9215686274509803,0.9686666666666666,0.07269963344599842,8,Logistic regression,Haemoglobin only
+18,0.85,0.8275862068965517,0.96,0.6666666666666666,0.8888888888888888,0.9586666666666667,0.0972621537931648,12,Logistic regression,Haemoglobin only
+19,0.9375,0.9090909090909091,1.0,0.8333333333333334,0.9523809523809523,0.9923333333333334,0.04364522984623953,5,Logistic regression,Haemoglobin only
+20,0.875,0.8571428571428571,0.96,0.7333333333333333,0.9056603773584906,0.9666666666666666,0.0771291958247762,10,Logistic regression,Haemoglobin only
+21,0.9125,0.9215686274509803,0.94,0.8666666666666667,0.9306930693069307,0.9716666666666667,0.06718735852508033,7,Logistic regression,Haemoglobin only
+22,0.95,0.9423076923076923,0.98,0.9,0.9607843137254902,0.992,0.046204667375639316,4,Logistic regression,Haemoglobin only
+23,0.9125,0.9387755102040817,0.92,0.9,0.9292929292929293,0.9603333333333334,0.0761595317718951,7,Logistic regression,Haemoglobin only
+24,0.8875,0.9183673469387755,0.9,0.8666666666666667,0.9090909090909091,0.9473333333333334,0.08988067038020686,9,Logistic regression,Haemoglobin only
+25,0.9125,0.9056603773584906,0.96,0.8333333333333334,0.9320388349514563,0.9646666666666667,0.06925706981333643,7,Logistic regression,Haemoglobin only
+26,0.9,0.8888888888888888,0.96,0.8,0.9230769230769231,0.9773333333333334,0.06517087280501957,8,Logistic regression,Haemoglobin only
+27,0.8875,0.8727272727272727,0.96,0.7666666666666667,0.9142857142857143,0.9686666666666666,0.07284121501332289,9,Logistic regression,Haemoglobin only
+28,0.9,0.92,0.92,0.8666666666666667,0.92,0.9610000000000001,0.07472937316939135,8,Logistic regression,Haemoglobin only
+29,0.9125,0.9574468085106383,0.9,0.9333333333333333,0.9278350515463918,0.9560000000000001,0.07393522908655156,7,Logistic regression,Haemoglobin only
+30,0.925,0.94,0.94,0.9,0.94,0.9733333333333334,0.06968364307441598,6,Logistic regression,Haemoglobin only
+31,0.925,0.9230769230769231,0.96,0.8666666666666667,0.9411764705882353,0.9839999999999999,0.05855807336912515,6,Logistic regression,Haemoglobin only
+32,0.8625,0.8823529411764706,0.9,0.8,0.8910891089108911,0.9393333333333334,0.09484462688100921,11,Logistic regression,Haemoglobin only
+33,0.9125,0.9215686274509803,0.94,0.8666666666666667,0.9306930693069307,0.9686666666666667,0.0699334936173005,7,Logistic regression,Haemoglobin only
+34,0.925,0.94,0.94,0.9,0.94,0.9693333333333333,0.06337266938792493,6,Logistic regression,Haemoglobin only
+35,0.8875,0.9183673469387755,0.9,0.8666666666666667,0.9090909090909091,0.9566666666666668,0.07905567682600675,9,Logistic regression,Haemoglobin only
+36,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.9786666666666666,0.057411777676117756,5,Logistic regression,Haemoglobin only
+37,0.9375,0.9090909090909091,1.0,0.8333333333333334,0.9523809523809523,0.9886666666666667,0.054838945462236,5,Logistic regression,Haemoglobin only
+38,0.8625,0.8421052631578947,0.96,0.7,0.897196261682243,0.9696666666666667,0.07800816537846422,11,Logistic regression,Haemoglobin only
+39,0.8875,0.9361702127659575,0.88,0.9,0.9072164948453608,0.9433333333333334,0.0903778022645797,9,Logistic regression,Haemoglobin only
+40,0.925,0.94,0.94,0.9,0.94,0.956,0.07245255165521527,6,Logistic regression,Haemoglobin only
+41,0.9125,0.9574468085106383,0.9,0.9333333333333333,0.9278350515463918,0.9726666666666667,0.06809341094844243,7,Logistic regression,Haemoglobin only
+42,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.9763333333333333,0.055092199015465894,5,Logistic regression,Haemoglobin only
+43,0.85,0.8392857142857143,0.94,0.7,0.8867924528301887,0.9593333333333334,0.08879561025411627,12,Logistic regression,Haemoglobin only
+44,0.8875,0.8727272727272727,0.96,0.7666666666666667,0.9142857142857143,0.9743333333333333,0.07162176230685799,9,Logistic regression,Haemoglobin only
+45,0.875,0.8571428571428571,0.96,0.7333333333333333,0.9056603773584906,0.9783333333333333,0.06841138409840138,10,Logistic regression,Haemoglobin only
+46,0.9,0.92,0.92,0.8666666666666667,0.92,0.9596666666666666,0.0806396503052028,8,Logistic regression,Haemoglobin only
+47,0.925,0.9074074074074074,0.98,0.8333333333333334,0.9423076923076923,0.9656666666666667,0.06365386685217742,6,Logistic regression,Haemoglobin only
+48,0.9125,0.9574468085106383,0.9,0.9333333333333333,0.9278350515463918,0.9763333333333333,0.06573406833373441,7,Logistic regression,Haemoglobin only
+49,0.8875,0.9183673469387755,0.9,0.8666666666666667,0.9090909090909091,0.957,0.08001947413297682,9,Logistic regression,Haemoglobin only
+0,0.925,0.9583333333333334,0.92,0.9333333333333333,0.9387755102040817,0.952,0.07099029241446203,6,Extremely randomised trees,Haemoglobin only
+1,0.8375,0.8363636363636363,0.92,0.7,0.8761904761904762,0.9466666666666667,0.09366128117913898,13,Extremely randomised trees,Haemoglobin only
+2,0.9125,0.9387755102040817,0.92,0.9,0.9292929292929293,0.9433333333333334,0.0836042951790632,7,Extremely randomised trees,Haemoglobin only
+3,0.8625,0.8823529411764706,0.9,0.8,0.8910891089108911,0.9376666666666668,0.10216335113378708,11,Extremely randomised trees,Haemoglobin only
+4,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9843333333333333,0.037262915589568915,3,Extremely randomised trees,Haemoglobin only
+5,0.8625,0.8979591836734694,0.88,0.8333333333333334,0.8888888888888888,0.9319999999999999,0.09419150641025652,11,Extremely randomised trees,Haemoglobin only
+6,0.8875,0.9019607843137255,0.92,0.8333333333333334,0.9108910891089109,0.9400000000000001,0.08547543617998198,9,Extremely randomised trees,Haemoglobin only
+7,0.875,0.8703703703703703,0.94,0.7666666666666667,0.9038461538461539,0.9533333333333333,0.0793951955782313,10,Extremely randomised trees,Haemoglobin only
+8,0.8875,0.9019607843137255,0.92,0.8333333333333334,0.9108910891089109,0.9556666666666667,0.06881748938113245,9,Extremely randomised trees,Haemoglobin only
+9,0.8875,0.8867924528301887,0.94,0.8,0.912621359223301,0.9516666666666667,0.08047349088888874,9,Extremely randomised trees,Haemoglobin only
+10,0.925,0.9230769230769231,0.96,0.8666666666666667,0.9411764705882353,0.9796666666666667,0.04446560864500643,6,Extremely randomised trees,Haemoglobin only
+11,0.9,0.92,0.92,0.8666666666666667,0.92,0.9449999999999998,0.07852025306471981,8,Extremely randomised trees,Haemoglobin only
+12,0.8875,0.8727272727272727,0.96,0.7666666666666667,0.9142857142857143,0.9643333333333334,0.0678260727367872,9,Extremely randomised trees,Haemoglobin only
+13,0.8625,0.9333333333333333,0.84,0.9,0.8842105263157894,0.8963333333333332,0.12628603990051607,11,Extremely randomised trees,Haemoglobin only
+14,0.825,0.8461538461538461,0.88,0.7333333333333333,0.8627450980392157,0.9163333333333333,0.11545458586327113,14,Extremely randomised trees,Haemoglobin only
+15,0.85,0.9130434782608695,0.84,0.8666666666666667,0.875,0.9053333333333333,0.12414557506887085,12,Extremely randomised trees,Haemoglobin only
+16,0.9375,1.0,0.9,1.0,0.9473684210526315,0.9400000000000001,0.06919978191000901,5,Extremely randomised trees,Haemoglobin only
+17,0.925,0.94,0.94,0.9,0.94,0.9656666666666667,0.06370486111111114,6,Extremely randomised trees,Haemoglobin only
+18,0.9,0.9038461538461539,0.94,0.8333333333333334,0.9215686274509803,0.9486666666666668,0.08405902777777767,8,Extremely randomised trees,Haemoglobin only
+19,0.9375,0.9245283018867925,0.98,0.8666666666666667,0.9514563106796117,0.9606666666666667,0.06170457777777801,5,Extremely randomised trees,Haemoglobin only
+20,0.8875,0.8727272727272727,0.96,0.7666666666666667,0.9142857142857143,0.9606666666666667,0.07354322970521548,9,Extremely randomised trees,Haemoglobin only
+21,0.9125,0.9777777777777777,0.88,0.9666666666666667,0.9263157894736842,0.9523333333333334,0.07668788580246919,7,Extremely randomised trees,Haemoglobin only
+22,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.9669999999999999,0.05536300844302219,5,Extremely randomised trees,Haemoglobin only
+23,0.875,0.9,0.9,0.8333333333333334,0.9,0.9376666666666666,0.08774902978669014,10,Extremely randomised trees,Haemoglobin only
+24,0.875,0.9,0.9,0.8333333333333334,0.9,0.9146666666666665,0.10472529992068218,10,Extremely randomised trees,Haemoglobin only
+25,0.875,0.8846153846153846,0.92,0.8,0.9019607843137255,0.9006666666666667,0.10319453160430818,10,Extremely randomised trees,Haemoglobin only
+26,0.8875,0.9019607843137255,0.92,0.8333333333333334,0.9108910891089109,0.9576666666666666,0.0717304568897815,9,Extremely randomised trees,Haemoglobin only
+27,0.875,0.8703703703703703,0.94,0.7666666666666667,0.9038461538461539,0.9556666666666667,0.08720136839805352,10,Extremely randomised trees,Haemoglobin only
+28,0.9125,0.9574468085106383,0.9,0.9333333333333333,0.9278350515463918,0.9293333333333335,0.08576932350820253,7,Extremely randomised trees,Haemoglobin only
+29,0.875,0.9545454545454546,0.84,0.9333333333333333,0.8936170212765957,0.9550000000000001,0.08366853191000889,10,Extremely randomised trees,Haemoglobin only
+30,0.9,0.92,0.92,0.8666666666666667,0.92,0.9703333333333333,0.06141595266299347,8,Extremely randomised trees,Haemoglobin only
+31,0.8875,0.9183673469387755,0.9,0.8666666666666667,0.9090909090909091,0.9513333333333334,0.07449350166758485,9,Extremely randomised trees,Haemoglobin only
+32,0.85,0.8958333333333334,0.86,0.8333333333333334,0.8775510204081632,0.8956666666666667,0.12863038161333634,12,Extremely randomised trees,Haemoglobin only
+33,0.9,0.9038461538461539,0.94,0.8333333333333334,0.9215686274509803,0.919,0.08482116775558855,8,Extremely randomised trees,Haemoglobin only
+34,0.8875,0.9019607843137255,0.92,0.8333333333333334,0.9108910891089109,0.9369999999999999,0.08974929011858544,9,Extremely randomised trees,Haemoglobin only
+35,0.875,0.9,0.9,0.8333333333333334,0.9,0.9359999999999999,0.09344805379933882,10,Extremely randomised trees,Haemoglobin only
+36,0.9125,0.9574468085106383,0.9,0.9333333333333333,0.9278350515463918,0.968,0.05943832182774474,7,Extremely randomised trees,Haemoglobin only
+37,0.9375,0.9411764705882353,0.96,0.9,0.9504950495049505,0.9646666666666668,0.05933875192233734,5,Extremely randomised trees,Haemoglobin only
+38,0.8375,0.8490566037735849,0.9,0.7333333333333333,0.8737864077669902,0.9146666666666667,0.10574875513610174,13,Extremely randomised trees,Haemoglobin only
+39,0.875,0.9166666666666666,0.88,0.8666666666666667,0.8979591836734694,0.9273333333333332,0.10091322435122167,10,Extremely randomised trees,Haemoglobin only
+40,0.8625,0.8679245283018868,0.92,0.7666666666666667,0.8932038834951457,0.8826666666666667,0.11195977211042699,11,Extremely randomised trees,Haemoglobin only
+41,0.8875,0.9361702127659575,0.88,0.9,0.9072164948453608,0.9139999999999999,0.09663994206041045,9,Extremely randomised trees,Haemoglobin only
+42,0.9125,0.9777777777777777,0.88,0.9666666666666667,0.9263157894736842,0.9483333333333333,0.07380566188148766,7,Extremely randomised trees,Haemoglobin only
+43,0.9125,0.9215686274509803,0.94,0.8666666666666667,0.9306930693069307,0.9373333333333334,0.0809622890294784,7,Extremely randomised trees,Haemoglobin only
+44,0.8875,0.9019607843137255,0.92,0.8333333333333334,0.9108910891089109,0.935,0.09974098932928577,9,Extremely randomised trees,Haemoglobin only
+45,0.9125,0.9215686274509803,0.94,0.8666666666666667,0.9306930693069307,0.965,0.07046828546233348,7,Extremely randomised trees,Haemoglobin only
+46,0.875,0.9,0.9,0.8333333333333334,0.9,0.9196666666666666,0.10106904992068219,10,Extremely randomised trees,Haemoglobin only
+47,0.925,0.9074074074074074,0.98,0.8333333333333334,0.9423076923076923,0.9696666666666667,0.06434722222222253,6,Extremely randomised trees,Haemoglobin only
+48,0.9,0.9375,0.9,0.9,0.9183673469387755,0.9346666666666666,0.08744989681045527,8,Extremely randomised trees,Haemoglobin only
+49,0.9125,0.9777777777777777,0.88,0.9666666666666667,0.9263157894736842,0.9293333333333333,0.0908452580520929,7,Extremely randomised trees,Haemoglobin only
+0,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.23760341872322624,12,Envelope rule,Haemoglobin only
+1,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.257176970449455,14,Envelope rule,Haemoglobin only
+2,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.28018055049001545,16,Envelope rule,Haemoglobin only
+3,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.2610166593280384,14,Envelope rule,Haemoglobin only
+4,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2662084571198876,15,Envelope rule,Haemoglobin only
+5,0.7625,1.0,0.62,1.0,0.7654320987654321,0.81,0.30946134248753704,19,Envelope rule,Haemoglobin only
+6,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.22005177691703343,10,Envelope rule,Haemoglobin only
+7,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.2571039759011622,14,Envelope rule,Haemoglobin only
+8,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.24698401311779303,13,Envelope rule,Haemoglobin only
+9,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2685849476870969,15,Envelope rule,Haemoglobin only
+10,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.20609071476833635,9,Envelope rule,Haemoglobin only
+11,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.2299285511615115,11,Envelope rule,Haemoglobin only
+12,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2675875443421221,15,Envelope rule,Haemoglobin only
+13,0.7375,1.0,0.58,1.0,0.7341772151898734,0.79,0.33221893927918505,21,Envelope rule,Haemoglobin only
+14,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2663603065594676,15,Envelope rule,Haemoglobin only
+15,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2673614013238383,15,Envelope rule,Haemoglobin only
+16,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.24734129436887775,13,Envelope rule,Haemoglobin only
+17,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.27785596035978927,16,Envelope rule,Haemoglobin only
+18,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2698074004796442,15,Envelope rule,Haemoglobin only
+19,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.2398199995784731,12,Envelope rule,Haemoglobin only
+20,0.7875,1.0,0.66,1.0,0.7951807228915663,0.8300000000000001,0.289267849208494,17,Envelope rule,Haemoglobin only
+21,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.24783676138058816,13,Envelope rule,Haemoglobin only
+22,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.23825659025778698,12,Envelope rule,Haemoglobin only
+23,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.2374186644338133,12,Envelope rule,Haemoglobin only
+24,0.7875,1.0,0.66,1.0,0.7951807228915663,0.8300000000000001,0.2894061908299402,17,Envelope rule,Haemoglobin only
+25,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2679511371649399,15,Envelope rule,Haemoglobin only
+26,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.256959320832296,14,Envelope rule,Haemoglobin only
+27,0.875,1.0,0.8,1.0,0.8888888888888888,0.9,0.2190965148127945,10,Envelope rule,Haemoglobin only
+28,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.27915412650558113,16,Envelope rule,Haemoglobin only
+29,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.2790249567950111,16,Envelope rule,Haemoglobin only
+30,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.22662596473631055,11,Envelope rule,Haemoglobin only
+31,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.2381704110170066,12,Envelope rule,Haemoglobin only
+32,0.775,1.0,0.64,1.0,0.7804878048780488,0.8200000000000001,0.29850703866220246,18,Envelope rule,Haemoglobin only
+33,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.28001210931825266,16,Envelope rule,Haemoglobin only
+34,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.25887053237685037,14,Envelope rule,Haemoglobin only
+35,0.8375,1.0,0.74,1.0,0.8505747126436781,0.87,0.24762097959107887,13,Envelope rule,Haemoglobin only
+36,0.85,1.0,0.76,1.0,0.8636363636363636,0.88,0.23793503091017892,12,Envelope rule,Haemoglobin only
+37,0.75,1.0,0.6,1.0,0.75,0.8,0.3204840452444254,20,Envelope rule,Haemoglobin only
+38,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.26856598594096515,15,Envelope rule,Haemoglobin only
+39,0.8625,1.0,0.78,1.0,0.8764044943820225,0.89,0.22758001442397421,11,Envelope rule,Haemoglobin only
+40,0.7875,1.0,0.66,1.0,0.7951807228915663,0.8300000000000001,0.28790501216099107,17,Envelope rule,Haemoglobin only
+41,0.7875,1.0,0.66,1.0,0.7951807228915663,0.8300000000000001,0.29164966829262085,17,Envelope rule,Haemoglobin only
+42,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.2557520078548776,14,Envelope rule,Haemoglobin only
+43,0.825,1.0,0.72,1.0,0.8372093023255814,0.86,0.26079592351218595,14,Envelope rule,Haemoglobin only
+44,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.20608344428994707,9,Envelope rule,Haemoglobin only
+45,0.8875,1.0,0.82,1.0,0.9010989010989011,0.9099999999999999,0.20679557081557193,9,Envelope rule,Haemoglobin only
+46,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.2752265917459039,16,Envelope rule,Haemoglobin only
+47,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2699003695467658,15,Envelope rule,Haemoglobin only
+48,0.8,1.0,0.68,1.0,0.8095238095238095,0.8400000000000001,0.2819705234511428,16,Envelope rule,Haemoglobin only
+49,0.8125,1.0,0.7,1.0,0.8235294117647058,0.85,0.2682930005512382,15,Envelope rule,Haemoglobin only
+0,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.01723744371393904,1,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+1,0.95,1.0,0.92,1.0,0.9583333333333334,0.9886666666666667,0.035267093185130195,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+2,0.975,0.98,0.98,0.9666666666666667,0.98,0.9946666666666667,0.02617693727801248,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+3,0.9375,0.9411764705882353,0.96,0.9,0.9504950495049505,0.9933333333333334,0.03656908884957408,5,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+4,0.9625,1.0,0.94,1.0,0.9690721649484536,1.0,0.020432990385237233,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+5,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333334,0.018883876030341678,1,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+6,0.975,0.98,0.98,0.9666666666666667,0.98,0.999,0.017160835549685834,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+7,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.9773333333333334,0.05188480930085404,5,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+8,0.95,1.0,0.92,1.0,0.9583333333333334,0.994,0.04122289872810283,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+9,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.011807942587000452,1,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+10,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.998,0.020757028693543893,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+11,0.975,1.0,0.96,1.0,0.9795918367346939,0.9946666666666667,0.029415871402860994,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+12,0.975,0.98,0.98,0.9666666666666667,0.98,0.9986666666666667,0.02025245527239121,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+13,0.9625,1.0,0.94,1.0,0.9690721649484536,0.996,0.03277504238111499,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+14,0.95,0.96,0.96,0.9333333333333333,0.96,0.984,0.03916523142728255,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+15,0.95,1.0,0.92,1.0,0.9583333333333334,0.9956666666666667,0.03476803581328549,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+16,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.0238474462292053,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+17,0.975,0.98,0.98,0.9666666666666667,0.98,0.9946666666666667,0.026303899049139934,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+18,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9946666666666667,0.030004513076378157,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+19,0.975,0.98,0.98,0.9666666666666667,0.98,0.9926666666666667,0.02158960595664185,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+20,0.9375,0.9411764705882353,0.96,0.9,0.9504950495049505,0.9946666666666667,0.03186988863674418,5,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+21,1.0,1.0,1.0,1.0,1.0,1.0,0.011452500532626555,0,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+22,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.012591758769663147,1,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+23,0.975,1.0,0.96,1.0,0.9795918367346939,0.9953333333333334,0.02609532329916619,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+24,0.925,0.9782608695652174,0.9,0.9666666666666667,0.9375,0.9826666666666667,0.05271832971687618,6,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+25,0.975,0.98,0.98,0.9666666666666667,0.98,0.9953333333333334,0.026563087651866952,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+26,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9966666666666668,0.02793096362130918,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+27,0.975,1.0,0.96,1.0,0.9795918367346939,0.9853333333333333,0.030827878180461888,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+28,0.95,0.96,0.96,0.9333333333333333,0.96,0.996,0.028259920958636265,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+29,0.975,1.0,0.96,1.0,0.9795918367346939,0.9973333333333334,0.02250518069153028,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+30,0.975,1.0,0.96,1.0,0.9795918367346939,0.9886666666666667,0.02603969398554722,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+31,0.9875,1.0,0.98,1.0,0.98989898989899,0.996,0.01960263516912013,1,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+32,0.95,0.96,0.96,0.9333333333333333,0.96,0.9953333333333334,0.03299100490510613,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+33,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9933333333333334,0.03905589397971237,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+34,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9983333333333333,0.021005775675822118,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+35,0.975,1.0,0.96,1.0,0.9795918367346939,0.998,0.024116472975250075,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+36,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333333,0.015508300459056846,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+37,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.998,0.024218909612700523,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+38,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9866666666666667,0.031764640454899705,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+39,0.95,1.0,0.92,1.0,0.9583333333333334,0.994,0.040977964303862385,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+40,0.9875,1.0,0.98,1.0,0.98989898989899,0.994,0.023385020941338285,1,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+41,0.95,0.96,0.96,0.9333333333333333,0.96,0.9946666666666667,0.032450835235456076,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+42,0.975,1.0,0.96,1.0,0.9795918367346939,0.992,0.021974127094654673,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+43,0.9375,0.9591836734693877,0.94,0.9333333333333333,0.9494949494949495,0.992,0.03631199116504018,5,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+44,0.975,1.0,0.96,1.0,0.9795918367346939,0.996,0.022180008826109897,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+45,0.9875,1.0,0.98,1.0,0.98989898989899,0.9993333333333333,0.015341916413847568,1,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+46,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.992,0.03817690418740558,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+47,0.975,1.0,0.96,1.0,0.9795918367346939,0.9966666666666667,0.023240604431670347,2,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+48,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9966666666666667,0.029518615339138733,4,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+49,0.9625,0.9607843137254902,0.98,0.9333333333333333,0.9702970297029703,0.9893333333333333,0.030516308480998934,3,Logistic regression,"Serum creatinine, haemoglobin, specific gravity"
+0,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.0112961125,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+1,0.975,0.98,0.98,0.9666666666666667,0.98,0.986,0.024294425,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+2,0.975,0.98,0.98,0.9666666666666667,0.98,0.9669999999999999,0.030661749999999998,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+3,0.975,0.98,0.98,0.9666666666666667,0.98,0.9986666666666666,0.0171514625,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+4,0.975,0.98,0.98,0.9666666666666667,0.98,0.986,0.0184432,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+5,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.009100900000000002,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+6,0.9875,1.0,0.98,1.0,0.98989898989899,0.9916666666666666,0.01664305,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+7,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9716666666666667,0.039367,4,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+8,0.975,1.0,0.96,1.0,0.9795918367346939,0.9973333333333334,0.022639937500000002,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+9,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.007408799999999998,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.00802855,0,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+11,0.9875,1.0,0.98,1.0,0.98989898989899,1.0,0.0169426625,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+12,0.9875,1.0,0.98,1.0,0.98989898989899,0.986,0.01458045,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+13,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9659999999999999,0.03706215,3,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+14,0.95,0.96,0.96,0.9333333333333333,0.96,0.9806666666666668,0.037913724999999995,4,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+15,0.975,1.0,0.96,1.0,0.9795918367346939,0.996,0.021293299999999998,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.006215750000000001,0,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+17,0.975,0.98,0.98,0.9666666666666667,0.98,0.998,0.021233525,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+18,0.9875,1.0,0.98,1.0,0.98989898989899,0.9843333333333333,0.017420924999999997,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+19,0.975,0.98,0.98,0.9666666666666667,0.98,0.9906666666666666,0.021883950000000003,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+20,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9853333333333333,0.02357855,3,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+21,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,0.9786666666666666,0.02428215,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+22,0.975,0.9615384615384616,1.0,0.9333333333333333,0.9803921568627451,1.0,0.00856005,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+23,0.9875,1.0,0.98,1.0,0.98989898989899,0.9846666666666666,0.0181894,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+24,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.992,0.0327549875,4,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+25,0.975,0.98,0.98,0.9666666666666667,0.98,0.9663333333333333,0.0309443,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+26,0.9875,1.0,0.98,1.0,0.98989898989899,0.9863333333333333,0.020780499999999997,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+27,0.975,1.0,0.96,1.0,0.9795918367346939,0.9853333333333334,0.022094812499999998,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+28,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.008868512500000002,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+29,0.975,1.0,0.96,1.0,0.9795918367346939,0.998,0.0159098,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+30,0.975,1.0,0.96,1.0,0.9795918367346939,0.9943333333333333,0.01990625,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+31,0.975,0.98,0.98,0.9666666666666667,0.98,0.9993333333333334,0.013870212500000001,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+32,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.013726875,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+33,0.975,1.0,0.96,1.0,0.9795918367346939,0.9866666666666667,0.023755349999999998,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+34,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.986,0.0220652,3,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+35,1.0,1.0,1.0,1.0,1.0,1.0,0.0094172125,0,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+36,0.9875,1.0,0.98,1.0,0.98989898989899,0.9863333333333333,0.013575799999999999,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+37,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333334,0.0141728625,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+38,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.984,0.028819099999999997,3,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+39,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.9676666666666668,0.039124500000000006,4,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+40,0.9875,1.0,0.98,1.0,0.98989898989899,0.9853333333333334,0.017964499999999998,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+41,0.975,1.0,0.96,1.0,0.9795918367346939,1.0,0.013016699999999997,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+42,0.9875,1.0,0.98,1.0,0.98989898989899,0.9876666666666666,0.014830062500000001,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+43,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9823333333333333,0.029944349999999998,3,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+44,0.95,0.9423076923076923,0.98,0.9,0.9607843137254902,0.979,0.026920149999999997,4,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.0057848625,0,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+46,0.95,0.96,0.96,0.9333333333333333,0.96,0.9736666666666667,0.039988449999999995,4,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+47,0.9875,1.0,0.98,1.0,0.98989898989899,0.9863333333333333,0.0151343,1,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+48,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.984,0.029719599999999995,3,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+49,0.975,0.98,0.98,0.9666666666666667,0.98,0.9873333333333334,0.021667162499999996,2,Extremely randomised trees,"Serum creatinine, haemoglobin, specific gravity"
+0,1.0,1.0,1.0,1.0,1.0,1.0,0.04445225628745789,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+1,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06205277414825274,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+2,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9786666666666667,0.07798836284649487,3,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+3,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06362373230153652,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+4,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06222791436809518,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+5,1.0,1.0,1.0,1.0,1.0,1.0,0.05199850146210454,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+6,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.058441791626434494,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+7,0.95,0.9791666666666666,0.94,0.9666666666666667,0.9591836734693877,0.969,0.09035052949671471,4,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+8,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06043587248251401,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+9,1.0,1.0,1.0,1.0,1.0,1.0,0.049040894007757255,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+10,1.0,1.0,1.0,1.0,1.0,1.0,0.046427508888409186,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+11,1.0,1.0,1.0,1.0,1.0,1.0,0.05550806349143291,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+12,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9793333333333334,0.07066771797928408,3,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+13,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.07677711317036132,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+14,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06097475538802809,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+15,0.975,0.98,0.98,0.9666666666666667,0.98,0.9893333333333333,0.06606579620532846,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+16,1.0,1.0,1.0,1.0,1.0,1.0,0.04984299417306798,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+17,1.0,1.0,1.0,1.0,1.0,1.0,0.052605268470383625,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+18,0.9625,1.0,0.94,1.0,0.9690721649484536,0.97,0.07694620524882065,3,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+19,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06488178278861112,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+20,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06286180813079896,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+21,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,1.0,0.05006133710767365,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+22,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.062102057492510875,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+23,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06114034825725678,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+24,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.07404957433432344,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+25,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.9793333333333334,0.07741743537844122,3,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+26,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.0693746435534724,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+27,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.056537429798239225,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+28,1.0,1.0,1.0,1.0,1.0,1.0,0.054007310685483256,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+29,1.0,1.0,1.0,1.0,1.0,1.0,0.052948503399238775,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+30,0.975,0.98,0.98,0.9666666666666667,0.98,0.9893333333333333,0.06082782392945858,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+31,1.0,1.0,1.0,1.0,1.0,1.0,0.04473423075779989,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+32,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06528436838037419,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+33,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.07993045192915771,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+34,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.05960179191787542,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+35,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.05633149725953277,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+36,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.05942898819079745,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+37,1.0,1.0,1.0,1.0,1.0,1.0,0.05573922304366796,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+38,0.9625,0.9795918367346939,0.96,0.9666666666666667,0.9696969696969697,0.979,0.07486805380693065,3,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+39,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.06394515543351043,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+40,0.9625,1.0,0.94,1.0,0.9690721649484536,0.97,0.08247685181772972,3,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+41,0.9875,0.9803921568627451,1.0,0.9666666666666667,0.9900990099009901,0.9993333333333333,0.05822025300924631,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+42,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.0574348758811555,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+43,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.061582211586211064,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+44,1.0,1.0,1.0,1.0,1.0,1.0,0.050546213271962646,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+45,1.0,1.0,1.0,1.0,1.0,1.0,0.04938133862772344,0,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+46,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.061565826806630385,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+47,0.9875,1.0,0.98,1.0,0.98989898989899,0.99,0.0657983513947996,1,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+48,0.975,1.0,0.96,1.0,0.9795918367346939,0.98,0.07505033089499971,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"
+49,0.975,0.98,0.98,0.9666666666666667,0.98,0.9896666666666666,0.058594817065062796,2,Envelope rule,"Serum creatinine, haemoglobin, specific gravity"

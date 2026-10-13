@@ -1,0 +1,71 @@
+{
+  "n": 400,
+  "n_ckd": 250,
+  "n_ctrl": 150,
+  "duplicates": 0,
+  "implausible_set_missing": {
+    "sod": [
+      [
+        "21",
+        4.5
+      ]
+    ],
+    "pot": [
+      [
+        "61",
+        39.0
+      ],
+      [
+        "128",
+        47.0
+      ]
+    ]
+  },
+  "missing_cells_pct_raw": 10.541666666666668,
+  "missing_cells_pct_clean": 10.572916666666666,
+  "rows_with_missing": 243,
+  "rows_with_missing_by_class": {
+    "0": 0.23333333333333334,
+    "1": 0.832
+  },
+  "mean_missing_per_row_by_class": {
+    "0": 0.6933333333333334,
+    "1": 3.644
+  },
+  "ckd_with_no_excursion_full_data": 0,
+  "ckd_excursions_median": 9.0,
+  "ckd_excursions_iqr": [
+    6.0,
+    11.0
+  ],
+  "corr_pairs_gt_0.75": [
+    [
+      "hemo",
+      "pcv",
+      0.8953817669928061
+    ],
+    [
+      "hemo",
+      "rc",
+      0.798880246744564
+    ],
+    [
+      "pcv",
+      "rc",
+      0.7916252713729907
+    ]
+  ],
+  "iqr15_outliers": {
+    "age": 10,
+    "bp": 36,
+    "bgr": 34,
+    "bu": 38,
+    "sc": 51,
+    "sod": 15,
+    "pot": 2,
+    "hemo": 1,
+    "pcv": 1,
+    "wc": 10,
+    "rc": 1
+  }
+}

@@ -1,0 +1,43 @@
+Decision stump (depth 1)
+|--- hemo <= 13.05
+|   |--- class: 1
+|--- hemo >  13.05
+|   |--- class: 0
+
+Decision tree (depth 2)
+|--- hemo <= 13.05
+|   |--- rc <= 5.10
+|   |   |--- class: 1
+|   |--- rc >  5.10
+|   |   |--- class: 0
+|--- hemo >  13.05
+|   |--- sg <= 1.02
+|   |   |--- class: 1
+|   |--- sg >  1.02
+|   |   |--- class: 0
+
+Missingness LR coefficients (all data):
+sc      -1.100
+pcc     -0.795
+ba      -0.795
+hemo    -0.493
+sg      -0.416
+bu      -0.306
+htn     -0.303
+dm      -0.303
+cad     -0.303
+appet   -0.197
+ane     -0.197
+pe      -0.197
+al       0.039
+pc       0.067
+su       0.075
+age      0.261
+wc       0.314
+bp       0.621
+pcv      0.647
+sod      0.652
+bgr      0.903
+pot      1.136
+rc       1.703
+rbc      2.395
